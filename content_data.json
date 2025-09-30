@@ -7,7 +7,7 @@
       "poster_url": "path/to/movie/poster.jpg",
       "playback_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
       "imdb_rating": 7.9
-    }
+    }**,** <--- VÍRGULA CORRIGIDA AQUI
     {
       "id": "m002",
       "title": "Movie Title Heredd",
@@ -30,7 +30,7 @@
               "episode_number": 1,
               "title": "Episode 1 Title",
               "playback_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
-            }
+            }**,** <-- VÍRGULA CORRIGIDA AQUI
             {
               "episode_number": 2,
               "title": "Episode 2 Title",
