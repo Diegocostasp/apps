@@ -8,6 +8,14 @@
       "playback_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
       "imdb_rating": 7.9
     }
+    {
+      "id": "m002",
+      "title": "Movie Title Heredd",
+      "description": "Short description of the movie...",
+      "poster_url": "path/to/movie/poster.jpg",
+      "playback_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+      "imdb_rating": 7.9
+    }
   ],
   "series": [
     {
