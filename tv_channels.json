@@ -2,25 +2,25 @@
   "channels": [
     {
       "id": "ch001",
-      "name": "Channel News HD",
-      "stream_url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8",
-      "program_image": "https://via.placeholder.com/160x90/FF5733?text=News",
+      "name": "TV EVANGELIZAR",
+      "stream_url": "https://cdn-3.nxplay.com.br/EVANGELIZAR/tracks-v2a1/mono.m3u8",
+      "program_image": "https://upload.wikimedia.org/wikipedia/commons/6/66/TV_Evangelizar_logo_2019.png",
       "current_program": "Breaking News Live",
       "description": "The latest updates on politics and economy."
     },
     {
       "id": "ch002",
-      "name": "Sport Zone 4K",
-      "stream_url": "https://bitmovin-a.akamaihd.net/content/sintel/hls/playlist.m3u8",
-      "program_image": "https://via.placeholder.com/160x90/33AFFF?text=Sport",
+      "name": "Loading TV",
+      "stream_url": "https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8",
+      "program_image": "https://listaiptv.gratis/logos/imagens/loadingamarelo.png",
       "current_program": "Football Highlights",
       "description": "Catch the best moments from yesterday's games."
     },
     {
       "id": "ch003",
-      "name": "Kids Cartoon",
-      "stream_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
-      "program_image": "https://via.placeholder.com/160x90/AA33FF?text=Kids",
+      "name": "Miami TV",
+      "stream_url": "https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8",
+      "program_image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Miami_tv.png",
       "current_program": "Morning Fun Time",
       "description": "Educational and fun cartoons for children."
     }
