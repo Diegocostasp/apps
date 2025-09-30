@@ -1,0 +1,20 @@
+{
+  "channels": [
+    {
+      "id": "ch001",
+      "name": "CNN",
+      "logo_url": "path/to/cnn_logo.png",
+      "stream_url": "https://yourserver.com/live/cnn/stream.m3u8",
+      "current_program": "The Latest News",
+      "next_program": "Talk Show Name"
+    },
+    {
+      "id": "ch002",
+      "name": "TNT-Comedy",
+      "logo_url": "path/to/tnt_logo.png",
+      "stream_url": "https://yourserver.com/live/tnt/stream.m3u8",
+      "current_program": "Hell's Kitchen (Адская кухня)",
+      "next_program": "News (Новости)"
+    }
+  ]
+}
