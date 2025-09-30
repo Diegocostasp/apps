@@ -2,19 +2,27 @@
   "channels": [
     {
       "id": "ch001",
-      "name": "CNN",
-      "logo_url": "path/to/cnn_logo.png",
-      "stream_url": "https://yourserver.com/live/cnn/stream.m3u8",
-      "current_program": "The Latest News",
-      "next_program": "Talk Show Name"
+      "name": "Channel News HD",
+      "stream_url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8",
+      "program_image": "https://via.placeholder.com/160x90/FF5733?text=News",
+      "current_program": "Breaking News Live",
+      "description": "The latest updates on politics and economy."
     },
     {
       "id": "ch002",
-      "name": "TNT-Comedy",
-      "logo_url": "path/to/tnt_logo.png",
-      "stream_url": "https://yourserver.com/live/tnt/stream.m3u8",
-      "current_program": "Hell's Kitchen (Адская кухня)",
-      "next_program": "News (Новости)"
+      "name": "Sport Zone 4K",
+      "stream_url": "https://bitmovin-a.akamaihd.net/content/sintel/hls/playlist.m3u8",
+      "program_image": "https://via.placeholder.com/160x90/33AFFF?text=Sport",
+      "current_program": "Football Highlights",
+      "description": "Catch the best moments from yesterday's games."
+    },
+    {
+      "id": "ch003",
+      "name": "Kids Cartoon",
+      "stream_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+      "program_image": "https://via.placeholder.com/160x90/AA33FF?text=Kids",
+      "current_program": "Morning Fun Time",
+      "description": "Educational and fun cartoons for children."
     }
   ]
 }
