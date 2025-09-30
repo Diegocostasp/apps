@@ -4,7 +4,7 @@
       "id": "m001",
       "title": "Movie Title Here",
       "description": "Short description of the movie...",
-      "poster_url": "path/to/movie/poster.jpg",
+      "poster_url": "https://pop.proddigital.com.br/wp-content/uploads/sites/8/2024/02/01-96.jpg",
       "playback_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
       "imdb_rating": 7.9
     },
@@ -12,7 +12,7 @@
       "id": "m002",
       "title": "Movie Title Heredd",
       "description": "Short description of the movie...",
-      "poster_url": "path/to/movie/poster.jpg",
+      "poster_url": "https://pop.proddigital.com.br/wp-content/uploads/sites/8/2024/02/01-96.jpg",
       "playback_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
       "imdb_rating": 7.9
     }
@@ -21,7 +21,7 @@
     {
       "id": "s001",
       "title": "Series Title Here",
-      "poster_url": "path/to/series/poster.jpg",
+      "poster_url": "https://pop.proddigital.com.br/wp-content/uploads/sites/8/2024/02/01-96.jpg",
       "seasons": [
         {
           "season_number": 1,
@@ -41,13 +41,29 @@
       ]
     }
   ],
-  "catchup": [
+  "animes": [
     {
-      "id": "c001",
-      "title": "Catch Up Show Name",
-      "poster_url": "path/to/catchup/poster.jpg",
-      "playback_url": "https://yourserver.com/catchup/video.mp4",
-      "air_date": "2025-01-20"
+      "id": "a001",
+      "title": "Anime Name Here",
+      "poster_url": "https://pop.proddigital.com.br/wp-content/uploads/sites/8/2024/02/01-96.jpg",
+      "backdrop_url": "https://jornalismorio.espm.br/wp-content/uploads/2021/12/confira-agora-os-25-melhores-animes-que-ja-foram-criados-1.jpg",
+      "seasons": [
+        {
+          "season_number": 1,
+          "episodes": [
+            {
+              "episode_number": 1,
+              "title": "Anime Episode 1",
+              "playback_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"
+            },
+            {
+              "episode_number": 2,
+              "title": "Anime Episode 2",
+              "playback_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
