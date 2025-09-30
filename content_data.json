@@ -5,7 +5,7 @@
       "title": "Movie Title Here",
       "description": "Short description of the movie...",
       "poster_url": "path/to/movie/poster.jpg",
-      "playback_url": "https://yourserver.com/movies/movie_link.mp4",
+      "playback_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
       "imdb_rating": 7.9
     }
   ],
@@ -21,7 +21,12 @@
             {
               "episode_number": 1,
               "title": "Episode 1 Title",
-              "playback_url": "https://yourserver.com/series/ep1_link.mp4"
+              "playback_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+            }
+            {
+              "episode_number": 2,
+              "title": "Episode 2 Title",
+              "playback_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
             }
           ]
         }
