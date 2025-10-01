@@ -2,38 +2,41 @@
   "movies": [
     {
       "id": "m001",
-      "title": "Movie Title Here",
-      "description": "Short description of the movie...",
+      "title": "O Segredo do Vale Perdido",
+      "description": "Uma aventura épica em busca de um tesouro antigo.",
       "poster_url": "https://pop.proddigital.com.br/wp-content/uploads/sites/8/2024/02/01-96.jpg",
       "playback_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-      "imdb_rating": 7.9
+      "imdb_rating": 7.9,
+      "genres": ["Aventura", "Família"]
     },
     {
       "id": "m002",
-      "title": "Movie Title Heredd",
-      "description": "Short description of the movie...",
+      "title": "Guerreiros do Futuro",
+      "description": "Em um futuro distópico, rebeldes lutam pela liberdade.",
       "poster_url": "https://pop.proddigital.com.br/wp-content/uploads/sites/8/2024/02/01-96.jpg",
       "playback_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-      "imdb_rating": 7.9
+      "imdb_rating": 8.5,
+      "genres": ["Ação", "Ficção Científica"]
     }
   ],
   "series": [
     {
       "id": "s001",
-      "title": "Series Title Here",
+      "title": "Crônicas de Gelo e Fogo",
       "poster_url": "https://pop.proddigital.com.br/wp-content/uploads/sites/8/2024/02/01-96.jpg",
+      "genres": ["Fantasia", "Drama"],
       "seasons": [
         {
           "season_number": 1,
           "episodes": [
             {
               "episode_number": 1,
-              "title": "Episode 1 Title",
+              "title": "O Inverno Está Chegando",
               "playback_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
             },
             {
               "episode_number": 2,
-              "title": "Episode 2 Title",
+              "title": "A Estrada Real",
               "playback_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
             }
           ]
@@ -44,21 +47,22 @@
   "animes": [
     {
       "id": "a001",
-      "title": "Anime Name Here",
+      "title": "A Lenda do Dragão",
       "poster_url": "https://pop.proddigital.com.br/wp-content/uploads/sites/8/2024/02/01-96.jpg",
       "backdrop_url": "https://jornalismorio.espm.br/wp-content/uploads/2021/12/confira-agora-os-25-melhores-animes-que-ja-foram-criados-1.jpg",
+      "genres": ["Shounen", "Aventura"],
       "seasons": [
         {
           "season_number": 1,
           "episodes": [
             {
               "episode_number": 1,
-              "title": "Anime Episode 1",
+              "title": "O Despertar",
               "playback_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"
             },
             {
               "episode_number": 2,
-              "title": "Anime Episode 2",
+              "title": "A Jornada Começa",
               "playback_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
             }
           ]
