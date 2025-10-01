@@ -5,8 +5,11 @@
       "title": "O Segredo do Vale Perdido",
       "description": "Uma aventura épica em busca de um tesouro antigo.",
       "poster_url": "https://pop.proddigital.com.br/wp-content/uploads/sites/8/2024/02/01-96.jpg",
+      "backdrop_url": "https://img.elo7.com.br/product/main/3001F5C/painel-banner-decorativo-filme-o-segredo-do-vale-perdido-o-segredo-do-vale-perdido.jpg",
       "playback_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
       "imdb_rating": 7.9,
+      "year": 2021,
+      "duration": "1h 45m",
       "genres": ["Aventura", "Família"]
     },
     {
@@ -14,8 +17,11 @@
       "title": "Guerreiros do Futuro",
       "description": "Em um futuro distópico, rebeldes lutam pela liberdade.",
       "poster_url": "https://pop.proddigital.com.br/wp-content/uploads/sites/8/2024/02/01-96.jpg",
+      "backdrop_url": "https://images.justwatch.com/backdrop/24251433/s1440/guerreiros-do-futuro",
       "playback_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
       "imdb_rating": 8.5,
+      "year": 2023,
+      "duration": "2h 10m",
       "genres": ["Ação", "Ficção Científica"]
     }
   ],
@@ -23,7 +29,11 @@
     {
       "id": "s001",
       "title": "Crônicas de Gelo e Fogo",
+      "description": "Nove famílias nobres lutam pelo controle das terras míticas de Westeros.",
       "poster_url": "https://pop.proddigital.com.br/wp-content/uploads/sites/8/2024/02/01-96.jpg",
+      "backdrop_url": "https://www.gameofthronesfan.net/images/wallpaper/1920x1080/wallpaper-1366x768.jpg",
+      "imdb_rating": 9.2,
+      "year": 2011,
       "genres": ["Fantasia", "Drama"],
       "seasons": [
         {
@@ -32,11 +42,13 @@
             {
               "episode_number": 1,
               "title": "O Inverno Está Chegando",
+              "description": "O Rei Robert Baratheon viaja para o Norte para se encontrar com Lorde Eddard Stark.",
               "playback_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
             },
             {
               "episode_number": 2,
               "title": "A Estrada Real",
+              "description": "A comitiva real se dirige para o sul. Jon Snow segue para a Muralha.",
               "playback_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
             }
           ]
@@ -48,8 +60,11 @@
     {
       "id": "a001",
       "title": "A Lenda do Dragão",
+      "description": "Um jovem herói embarca em uma jornada para se tornar o Cavaleiro do Dragão e salvar seu reino.",
       "poster_url": "https://pop.proddigital.com.br/wp-content/uploads/sites/8/2024/02/01-96.jpg",
       "backdrop_url": "https://jornalismorio.espm.br/wp-content/uploads/2021/12/confira-agora-os-25-melhores-animes-que-ja-foram-criados-1.jpg",
+      "imdb_rating": 9.0,
+      "year": 2022,
       "genres": ["Shounen", "Aventura"],
       "seasons": [
         {
@@ -58,11 +73,13 @@
             {
               "episode_number": 1,
               "title": "O Despertar",
+              "description": "Kai, um jovem órfão, descobre que é o último da linhagem dos Cavaleiros do Dragão.",
               "playback_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"
             },
             {
               "episode_number": 2,
               "title": "A Jornada Começa",
+              "description": "Com seu novo mentor, Kai embarca em uma perigosa jornada para a Montanha Dourada.",
               "playback_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
             }
           ]
