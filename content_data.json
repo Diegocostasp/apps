@@ -13,6 +13,22 @@
       "genres": ["Aventura", "Família"]
     },
     {
+      "id": "m1759364596379",
+      "title": "Edward Mãos de Tesoura",
+      "description": "Um cientista excêntrico cria um ser humano artificial, Edward, mas morre antes de poder terminar as mãos de Edward, deixando-o com tesouras afiadas no lugar dos dedos. Edward é descoberto e levado para morar em uma família suburbana, onde sua gentileza e peculiaridade o tornam amado por alguns e incompreendido por outros, enquanto ele tenta se adaptar a um mundo que não foi feito para ele.",
+      "poster_url": "https://image.tmdb.org/t/p/original/a0A97sX9iM1N2b4JdY3gXk1qfK0.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/original/bF8WlS7M0hEaJ82T8m71F6fT3dG.jpg",
+      "playback_url": "https://sh20raj.github.io/DrivePlyr/fluid.html?id=eyJpZCI6WyIxdnJZVklhbEtNckpubzgtTjZYV3pQQmVNTXZBVzY1SlkiXX0=",
+      "imdb_rating": 7.9,
+      "year": 1990,
+      "duration": "1h 45m",
+      "genres": [
+        "Fantasia",
+        "Drama",
+        "Romance"
+      ]
+    },
+    {
       "id": "m002",
       "title": "Guerreiros do Futuro",
       "description": "Em um futuro distópico, rebeldes lutam pela liberdade.",
