@@ -1,0 +1,31 @@
+[
+  {
+    "id": "s001",
+    "title": "Crônicas de Gelo e Fogo",
+    "description": "Nove famílias nobres lutam pelo controle das terras míticas de Westeros.",
+    "poster_url": "https://pop.proddigital.com.br/wp-content/uploads/sites/8/2024/02/01-96.jpg",
+    "backdrop_url": "https://www.gameofthronesfan.net/images/wallpaper/1920x1080/wallpaper-1366x768.jpg",
+    "imdb_rating": 9.2,
+    "year": 2011,
+    "genres": ["Fantasia", "Drama"],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episodes": [
+          {
+            "episode_number": 1,
+            "title": "O Inverno Está Chegando",
+            "description": "O Rei Robert Baratheon viaja para o Norte para se encontrar com Lorde Eddard Stark.",
+            "playback_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+          },
+          {
+            "episode_number": 2,
+            "title": "A Estrada Real",
+            "description": "A comitiva real se dirige para o sul. Jon Snow segue para a Muralha.",
+            "playback_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+          }
+        ]
+      }
+    ]
+  }
+]
