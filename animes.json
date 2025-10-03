@@ -1,0 +1,31 @@
+[
+  {
+    "id": "a001",
+    "title": "A Lenda do Dragão",
+    "description": "Um jovem herói embarca em uma jornada para se tornar o Cavaleiro do Dragão e salvar seu reino.",
+    "poster_url": "https://pop.proddigital.com.br/wp-content/uploads/sites/8/2024/02/01-96.jpg",
+    "backdrop_url": "https://jornalismorio.espm.br/wp-content/uploads/2021/12/confira-agora-os-25-melhores-animes-que-ja-foram-criados-1.jpg",
+    "imdb_rating": 9.0,
+    "year": 2022,
+    "genres": ["Shounen", "Aventura"],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episodes": [
+          {
+            "episode_number": 1,
+            "title": "O Despertar",
+            "description": "Kai, um jovem órfão, descobre que é o último da linhagem dos Cavaleiros do Dragão.",
+            "playback_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"
+          },
+          {
+            "episode_number": 2,
+            "title": "A Jornada Começa",
+            "description": "Com seu novo mentor, Kai embarca em uma perigosa jornada para a Montanha Dourada.",
+            "playback_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
+          }
+        ]
+      }
+    ]
+  }
+]
