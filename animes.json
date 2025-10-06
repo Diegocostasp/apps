@@ -14,28 +14,28 @@
     ],
     "seasons": [
       {
-        "season_number": null,
+        "season_number": 1,
         "episodes": [
           {
-            "episode_number": "1",
+            "episode_number": 1,
             "title": "Episódio 1x1",
             "description": "",
             "playback_url": "https://play.betteranime.net/playlist/G/UPE5ClW6uL/7ozRDfN5o5/zBGtLodWMd/vc6e1sWWxh/vc6e1sWWxh.m3u8"
           },
           {
-            "episode_number": "2",
+            "episode_number": 2,
             "title": "Episódio 1x2",
             "description": "",
             "playback_url": "https://play.betteranime.net/playlist/G/w7CJOeEQAt/lJhJgKgXoz/psemkVttAG/9tiDMkaGXf/9tiDMkaGXf.m3u8"
           },
           {
-            "episode_number": "3",
+            "episode_number": 3,
             "title": "Episódio 1x3",
             "description": "",
             "playback_url": "https://play.betteranime.net/playlist/G/utxAE80bKV/Lrwhh1Oj7l/56928jh2pu/655e2yd8yP/655e2yd8yP.m3u8"
           },
           {
-            "episode_number": "4",
+            "episode_number": 4,
             "title": "Episódio 1x4",
             "description": "",
             "playback_url": "https://play.betteranime.net/playlist/G/LEIJ3j0Ljl/YWFFAM8sHe/qT4Rb0SZqg/LWc5uK6RDU/LWc5uK6RDU.m3u8"
@@ -24429,7 +24429,7 @@
   {
     "id": "10660",
     "title": "Os Cavaleiros do Zodíaco: Ômega",
-    "description": "O enredo de Ômega acontece no futuro, 25 anos após a conclusão das guerras do século 20 narradas no mangá. Após um conflito com o deus Marte, Seiya de Sagitário e seus amigos foram impedidos de queimar seus cosmos e Athena teve de se refugiar numa ilha onde treina novos cavaleiros para derrotar Marte, porém, mal sabe ela que as escondidas Marte cria uma jovem com forte cosmo de luz para usurpar o lugar de Athena e destruir a terra usando o cosmo da luz para transformar Marte num paraíso.",
+    "description": "O enredo de Ômega acontece no futuro, 25 anos após a conclusão das guerras do século 20 narradas no mangá. Após um conflito com o deus Marte, Seiya de Sagitário e seus amigos foram impedidos de queimar seus cosmos e Athena teve de se refugiar numa ilha onde treina novos cavaleiros para derrotar Marte, porém, mal sabe ela que as escondidas Marte cria uma jovem com forte cosmo de luz para usurpar o lugar de Athena e destruir a terra usando o cosmo da luz para transformar Marte num paraíso.",
     "poster_url": "https://image.tmdb.org/t/p/w300//nMmq4AG9Vve3jA9wGHFhm9ezMHI.jpg",
     "backdrop_url": "",
     "imdb_rating": "7.872",
@@ -26507,7 +26507,7 @@
   {
     "id": "10418",
     "title": "Aika",
-    "description": "A história tem início quando o Aika recebe a missão de recuperar Lagu, uma nova fonte de energia. Pela falta de opções (dinheiro), Aika resolve aceitar o trabalho, mas quando chega ao local combinado, descobre que é tudo uma grande cilada.  Recebendo a ajuda de sua parceira Rion, ela consegue se infiltrar na base inimiga e passar por difíceis situações. Quando a história fica perigosa para ela, é só usar o Metal de Ortanato que a deixa muito mais forte e rápida, além de mais bonita. O efeito negativo é que esse metal às vezes causa uma dupla-personalidade, deixando-o apenas para situações de vida ou morte.  Com o desenrolar da história, Aika descobre que Lagu é na verdade o causador do terremoto que inundou o mundo, e um psicopata quer usar a energia do Lagu para criar uma terrível onda de energia e destruir a Terra por completo.  O anime é dividido em duas partes. Na primeira, Aika tem que salvar o mundo da destruição pelo Lagu. Na segunda, ela tem que fugir de assassinas que a todo custo querem sua cabeça, por estragar os planos da corporação onde trabalham.",
+    "description": "A história tem início quando o Aika recebe a missão de recuperar Lagu, uma nova fonte de energia. Pela falta de opções (dinheiro), Aika resolve aceitar o trabalho, mas quando chega ao local combinado, descobre que é tudo uma grande cilada.  Recebendo a ajuda de sua parceira Rion, ela consegue se infiltrar na base inimiga e passar por difíceis situações. Quando a história fica perigosa para ela, é só usar o Metal de Ortanato que a deixa muito mais forte e rápida, além de mais bonita. O efeito negativo é que esse metal às vezes causa uma dupla-personalidade, deixando-o apenas para situações de vida ou morte.  Com o desenrolar da história, Aika descobre que Lagu é na verdade o causador do terremoto que inundou o mundo, e um psicopata quer usar a energia do Lagu para criar uma terrível onda de energia e destruir a Terra por completo.  O anime é dividido em duas partes. Na primeira, Aika tem que salvar o mundo da destruição pelo Lagu. Na segunda, ela tem que fugir de assassinas que a todo custo querem sua cabeça, por estragar os planos da corporação onde trabalham.",
     "poster_url": "https://image.tmdb.org/t/p/w300//tGTBxjGSlJKXtS4b3LpufJIHytx.jpg",
     "backdrop_url": "",
     "imdb_rating": "8.111",
@@ -51856,7 +51856,7 @@
   {
     "id": "9012",
     "title": "Get Backers",
-    "description": "Ban Mido e Ginji Amano são uma dupla mais conhecida como \"GetBackers\". Ban tem dois poderes: o “picada de cobra\" (suas mãos têm uma força de 200kg) e o “olhar do mal\" (qualquer um que olhe em seus olhos ficará preso em uma poderosa alucinação).  Ginji tem a habilidade de gerar centenas de volts de eletricidade de seu corpo. Juntos, eles comandam um negócio para recuperar tudo o que foi perdido ou roubado de um cliente – e garantem 100% de sucesso. Eles estão sempre a espera de clientes na Honkey Tony, um pequeno restaurante, e se metem nos mais estranhos e bizarros casos para recuperar tudo que lhes foi pedido e manter a taxa de sucesso, mas os preços também são muito altos.\r\n\r\n(fonte: antiga Animax Brasil)",
+    "description": "Ban Mido e Ginji Amano são uma dupla mais conhecida como \"GetBackers\". Ban tem dois poderes: o “picada de cobra\" (suas mãos têm uma força de 200kg) e o “olhar do mal\" (qualquer um que olhe em seus olhos ficará preso em uma poderosa alucinação).  Ginji tem a habilidade de gerar centenas de volts de eletricidade de seu corpo. Juntos, eles comandam um negócio para recuperar tudo o que foi perdido ou roubado de um cliente – e garantem 100% de sucesso. Eles estão sempre a espera de clientes na Honkey Tony, um pequeno restaurante, e se metem nos mais estranhos e bizarros casos para recuperar tudo que lhes foi pedido e manter a taxa de sucesso, mas os preços também são muito altos.\r\n\r\n(fonte: antiga Animax Brasil)",
     "poster_url": "https://image.tmdb.org/t/p/w300//22WtfwbpWM1RFUTh5l4qfW2xCgl.jpg",
     "backdrop_url": "",
     "imdb_rating": "6.4",
@@ -65574,7 +65574,7 @@
   {
     "id": "8249",
     "title": "Keijo!!!",
-    "description": "Keijo!!! acompanha a garota da capa acima, uma menina excepcional em esportes, mas de família pobre, que tenta entrar em uma escola de Keijo (esporte aonde mulheres duelam em plataformas sobre a água só podendo usar bunda e peito) através de uma dificílima seleção, com o objetivo de se tornar uma estrela do esporte e ganhar dinheiro o bastante para ajudar sua família.",
+    "description": "Keijo!!! acompanha a garota da capa acima, uma menina excepcional em esportes, mas de família pobre, que tenta entrar em uma escola de Keijo (esporte aonde mulheres duelam em plataformas sobre a água só podendo usar bunda e peito) através de uma dificílima seleção, com o objetivo de se tornar uma estrela do esporte e ganhar dinheiro o bastante para ajudar sua família.",
     "poster_url": "https://cdn.syncdev.com.br//uploads/video_thumb/8249.jpg",
     "backdrop_url": "",
     "imdb_rating": "7.085",
@@ -94219,7 +94219,7 @@
   {
     "id": "6567",
     "title": "Durarara!!",
-    "description": "Mikado Ryugamine é um jovem que sonha com a vida agitada de cidade grande. Quando convidado por seu amigo deMasaomi Kida, Mikado se transfere para uma escola em Ikebukuro, Tokyo. Masaomi o adverte sobre pessoas perigosas com quem ele não deve se meter: um homem violento vestido de bar-man, um comerciante de informações, e uma misteriosa gangue chamada \"Dollars\". Para completar, Mikado presencia uma lenda urbana em seu primeiro dia na cidade: o \"Motoqueiro Negro\", o suposto piloto sem cabeça de uma motocicleta preta. A narrativa segue todos os personagens de maneira equilibrada, mostrando como suas vidas se cruzam, criando um grande enredo de acordo com o que cada personagem sabe sobre um incidente da cidade de Ikebukuro.",
+    "description": "Mikado Ryugamine é um jovem que sonha com a vida agitada de cidade grande. Quando convidado por seu amigo deMasaomi Kida, Mikado se transfere para uma escola em Ikebukuro, Tokyo. Masaomi o adverte sobre pessoas perigosas com quem ele não deve se meter: um homem violento vestido de bar-man, um comerciante de informações, e uma misteriosa gangue chamada \"Dollars\". Para completar, Mikado presencia uma lenda urbana em seu primeiro dia na cidade: o \"Motoqueiro Negro\", o suposto piloto sem cabeça de uma motocicleta preta. A narrativa segue todos os personagens de maneira equilibrada, mostrando como suas vidas se cruzam, criando um grande enredo de acordo com o que cada personagem sabe sobre um incidente da cidade de Ikebukuro.",
     "poster_url": "https://image.tmdb.org/t/p/w300//uOFSO10nsAd6sg5KNThXPt4ID8i.jpg",
     "backdrop_url": "",
     "imdb_rating": "7.748",
@@ -118731,7 +118731,7 @@
   {
     "id": "5859",
     "title": "Air Gear",
-    "description": "Minami Itsuki, é um jovem que tem apenas 13 anos, e é estudante que por sinal também um delinquente juvenil em Air Gear. Minami é conhecido como o “Imbatível Baby Face”, Ikki é um garoto que se tornou lider de uma pequena gangue juvenil que se nomeou Gunz do Lado Leste. Ikki após ser humilhado em Air Gear Online por uma gangue de Storm Riders que se chama Skull Saders e acaba retornando para casa com o seu orgulho e a sua reputação escolar machucada também, e acaba descobrindo um grande segredo dos benfeitores o que dar alguma vantagem, as irmãs Noyamano pertencem a um grupo bastante notório de Storm Riders no qual se chama Sleeping Forest. Ikki ganha um presente que é um par de Air Tracks das suas amadas irmãs, que eventualmente volta a desafiar os Skull Saders para resolver as suas diferenças e recuperar o seu orgulho em Air Gear",
+    "description": "Minami Itsuki, é um jovem que tem apenas 13 anos, e é estudante que por sinal também um delinquente juvenil em Air Gear. Minami é conhecido como o “Imbatível Baby Face”, Ikki é um garoto que se tornou lider de uma pequena gangue juvenil que se nomeou Gunz do Lado Leste. Ikki após ser humilhado em Air Gear Online por uma gangue de Storm Riders que se chama Skull Saders e acaba retornando para casa com o seu orgulho e a sua reputação escolar machucada também, e acaba descobrindo um grande segredo dos benfeitores o que dar alguma vantagem, as irmãs Noyamano pertencem a um grupo bastante notório de Storm Riders no qual se chama Sleeping Forest. Ikki ganha um presente que é um par de Air Tracks das suas amadas irmãs, que eventualmente volta a desafiar os Skull Saders para resolver as suas diferenças e recuperar o seu orgulho em Air Gear",
     "poster_url": "https://image.tmdb.org/t/p/w300//fbNkD6MxjSuAN9TFP6rsWwo5gkc.jpg",
     "backdrop_url": "",
     "imdb_rating": "7.414",
@@ -146069,7 +146069,7 @@
   {
     "id": "10059",
     "title": "Tales of Zestiria the X",
-    "description": "A história se passa em um mundo povoado por seres humanos e por seres divinos denominados seraphins. Estes últimos, que são invisíveis para a maioria dos seres humanos têm a capacidade de conceder bênçãos para as cidades e aldeias e são reverenciados como deuses. No entanto, com o passar das gerações, alguns seraphins perderam a fé na humanidade e os abandonaram, deixando que as trevas se aproximassem. Sorey, um garoto humano criado por seraphins, chega um dia no mundo humano e descobre que tudo é muito diferente de sua aldeia original.",
+    "description": "A história se passa em um mundo povoado por seres humanos e por seres divinos denominados seraphins. Estes últimos, que são invisíveis para a maioria dos seres humanos têm a capacidade de conceder bênçãos para as cidades e aldeias e são reverenciados como deuses. No entanto, com o passar das gerações, alguns seraphins perderam a fé na humanidade e os abandonaram, deixando que as trevas se aproximassem. Sorey, um garoto humano criado por seraphins, chega um dia no mundo humano e descobre que tudo é muito diferente de sua aldeia original.",
     "poster_url": "https://image.tmdb.org/t/p/w300//pSujZ4hlhXavlpuZJUcNckHdgoQ.jpg",
     "backdrop_url": "",
     "imdb_rating": "7.3",
@@ -152881,7 +152881,7 @@
   {
     "id": "9266",
     "title": "Campione! Matsurowanu Kamigami to Kamigoroshi no Maou",
-    "description": "Campione é um titulo dado àqueles que podem matar um Deus, podendo usar os poderes divinos que nenhuma mortal poderia utilizar e nem se igualar em poder. Kusanagi Godou é um colegial de 16 anos que era o quarto rebatedor e receptor no time de beisebol do colégio, mas um ferimento acabou encerrando qualquer chance de um futuro promissor no esporte. O garoto viaja para a Sardenha a pedido de seu avô para devolver uma antiga tabuleta de pedra a uma antiga conhecida chamada Lucrecia Zola. Na Sardenha ele acaba conhecendo Erica Blandelli, uma espadachim versada em magia e acaba sendo arrastado junto a ela para o caos resultante de uma disputa entre dois deuses. Em meio a essa crise ele acaba tendo que enfrentar o antigo senhor da guerra persa, Verethragna, em um combate mortal. Após matar o deus, Godou torna-se um Campione, um dos muitos títulos atribuídos a um matador de deuses. Agora ele precisa lidar com os problemas que vem ao receber esse título e que não são nada fáceis.",
+    "description": "Campione é um titulo dado àqueles que podem matar um Deus, podendo usar os poderes divinos que nenhuma mortal poderia utilizar e nem se igualar em poder. Kusanagi Godou é um colegial de 16 anos que era o quarto rebatedor e receptor no time de beisebol do colégio, mas um ferimento acabou encerrando qualquer chance de um futuro promissor no esporte. O garoto viaja para a Sardenha a pedido de seu avô para devolver uma antiga tabuleta de pedra a uma antiga conhecida chamada Lucrecia Zola. Na Sardenha ele acaba conhecendo Erica Blandelli, uma espadachim versada em magia e acaba sendo arrastado junto a ela para o caos resultante de uma disputa entre dois deuses. Em meio a essa crise ele acaba tendo que enfrentar o antigo senhor da guerra persa, Verethragna, em um combate mortal. Após matar o deus, Godou torna-se um Campione, um dos muitos títulos atribuídos a um matador de deuses. Agora ele precisa lidar com os problemas que vem ao receber esse título e que não são nada fáceis.",
     "poster_url": "https://image.tmdb.org/t/p/w300//jCuU95wiqJLsdLEb2elZZmluAZE.jpg",
     "backdrop_url": "",
     "imdb_rating": "8.247",
@@ -174112,7 +174112,7 @@
   {
     "id": "6201",
     "title": "Magical DoReMi",
-    "description": "Ojamajo Doremi, conhecido como Magical DoReMi nos Estados Unidos, é uma série de anime para meninas mágicas criada pela Toei Animation em 1999. Ela se concentra em alunos do ensino fundamental que se tornam aprendizes de bruxas. Lideradas por Doremi Harukaze, as garotas devem manter suas vidas duplas em segredo.Ojamajo Doremi foi seguido por três sequências diretas, durando até seu final em 2003. Durante o tempo de execução da série de televisão, dois filmes complementares foram lançados nos cinemas. A dublagem inglesa, produzida pela 4Kids Entertainment, lançou um episódio de pré-visualização nos Estados Unidos em 13 de agosto de 2005, e o primeiro episódio em 10 de setembro de 2005.",
+    "description": "Ojamajo Doremi, conhecido como Magical DoReMi nos Estados Unidos, é uma série de anime para meninas mágicas criada pela Toei Animation em 1999. Ela se concentra em alunos do ensino fundamental que se tornam aprendizes de bruxas. Lideradas por Doremi Harukaze, as garotas devem manter suas vidas duplas em segredo.Ojamajo Doremi foi seguido por três sequências diretas, durando até seu final em 2003. Durante o tempo de execução da série de televisão, dois filmes complementares foram lançados nos cinemas. A dublagem inglesa, produzida pela 4Kids Entertainment, lançou um episódio de pré-visualização nos Estados Unidos em 13 de agosto de 2005, e o primeiro episódio em 10 de setembro de 2005.",
     "poster_url": "https://image.tmdb.org/t/p/w300//yODQ7MDKMbvc9H7T06CCDTdzgeX.jpg",
     "backdrop_url": "",
     "imdb_rating": "8.19",
@@ -182348,7 +182348,7 @@
   {
     "id": "12868",
     "title": "Basilisk: Ouka Ninpouchou",
-    "description": "No anos de 1614, no auge do Japão Feudal, para resolver a disputa pela sucessão do Xogunato, Ieyasu Tokugawa quebra um acordo de paz feito entre os clãs rivais de Tsubagakure Iga e de Manjidani Kouga, que era mantido há muitos anos, apesar de ainda haver ódio entre os clãs. A quebra do acordo inicia um grande derramamento de sangue entre os dois lados, que decidem resolver com base na força os anos de ódio reprimido. A guerra ninja começa no momento em que estava para acontecer um casamento entre os futuros jovens líderes dos dois lados (Gennosuke de Kouga e Oboro de Iga) o qual firmaria a paz entre os clãs. Por esse motivo os dois enamorados são tragados por traições, armadilhas, dilemas, ódios seculares e amores reprimidos; a dualidade entre cumprir o dever para com o clã ou ignorar a guerra para viver o amor. A história é repleta de batalhas entre os dez ninjas de cada lado, cada um com uma técnica ninja sobre-humana.",
+    "description": "No anos de 1614, no auge do Japão Feudal, para resolver a disputa pela sucessão do Xogunato, Ieyasu Tokugawa quebra um acordo de paz feito entre os clãs rivais de Tsubagakure Iga e de Manjidani Kouga, que era mantido há muitos anos, apesar de ainda haver ódio entre os clãs. A quebra do acordo inicia um grande derramamento de sangue entre os dois lados, que decidem resolver com base na força os anos de ódio reprimido. A guerra ninja começa no momento em que estava para acontecer um casamento entre os futuros jovens líderes dos dois lados (Gennosuke de Kouga e Oboro de Iga) o qual firmaria a paz entre os clãs. Por esse motivo os dois enamorados são tragados por traições, armadilhas, dilemas, ódios seculares e amores reprimidos; a dualidade entre cumprir o dever para com o clã ou ignorar a guerra para viver o amor. A história é repleta de batalhas entre os dez ninjas de cada lado, cada um com uma técnica ninja sobre-humana.",
     "poster_url": "https://image.tmdb.org/t/p/w300//dHW4ZNEZDpUmkd8MOoGVnXkaNER.jpg",
     "backdrop_url": "",
     "imdb_rating": "7.4",
@@ -204160,7 +204160,7 @@
   {
     "id": "12867",
     "title": "Basilisk: Kouga Ninpou Chou",
-    "description": "No anos de 1614, no auge do Japão Feudal, para resolver a disputa pela sucessão do Xogunato, Ieyasu Tokugawa quebra um acordo de paz feito entre os clãs rivais de Tsubagakure Iga e de Manjidani Kouga, que era mantido há muitos anos, apesar de ainda haver ódio entre os clãs. A quebra do acordo inicia um grande derramamento de sangue entre os dois lados, que decidem resolver com base na força os anos de ódio reprimido. A guerra ninja começa no momento em que estava para acontecer um casamento entre os futuros jovens líderes dos dois lados (Gennosuke de Kouga e Oboro de Iga) o qual firmaria a paz entre os clãs. Por esse motivo os dois enamorados são tragados por traições, armadilhas, dilemas, ódios seculares e amores reprimidos; a dualidade entre cumprir o dever para com o clã ou ignorar a guerra para viver o amor. A história é repleta de batalhas entre os dez ninjas de cada lado, cada um com uma técnica ninja sobre-humana.",
+    "description": "No anos de 1614, no auge do Japão Feudal, para resolver a disputa pela sucessão do Xogunato, Ieyasu Tokugawa quebra um acordo de paz feito entre os clãs rivais de Tsubagakure Iga e de Manjidani Kouga, que era mantido há muitos anos, apesar de ainda haver ódio entre os clãs. A quebra do acordo inicia um grande derramamento de sangue entre os dois lados, que decidem resolver com base na força os anos de ódio reprimido. A guerra ninja começa no momento em que estava para acontecer um casamento entre os futuros jovens líderes dos dois lados (Gennosuke de Kouga e Oboro de Iga) o qual firmaria a paz entre os clãs. Por esse motivo os dois enamorados são tragados por traições, armadilhas, dilemas, ódios seculares e amores reprimidos; a dualidade entre cumprir o dever para com o clã ou ignorar a guerra para viver o amor. A história é repleta de batalhas entre os dez ninjas de cada lado, cada um com uma técnica ninja sobre-humana.",
     "poster_url": "https://image.tmdb.org/t/p/w300//dHW4ZNEZDpUmkd8MOoGVnXkaNER.jpg",
     "backdrop_url": "",
     "imdb_rating": "7.4",
@@ -224694,7 +224694,7 @@
   {
     "id": "11055",
     "title": "Initial D First Stage",
-    "description": "Ambientado na província de Gunma durante os anos 90, a série mostra a história de Takumi Fujiwara, um garoto de 18 anos que ajuda a loja de tofu de seu pai fazendo entregas todos os dias de manhã para o hotel no Monte Akina usando o carro de seu pai, um Toyota Sprinter Trueno GT-APEX (AE86). Takumi vem fazendo essas entregas desde que tinha 13 anos. Como resultado, suas habilidades são altamente refinadas, permitindo-o pilotar durante qualquer condição climática. Em uma corrida numa estrada da montanha Touge, potência não é o mais importante. Equilíbrio, habilidade e coragem são fatores determinantes para a vitória. Corridas na estrada da montanhasTouge são divididas em dois tipos: descida e subida Dowhill e Hillclimb/(Uphill). As corridas Hillclimb (subindo a montanha) depende mais da potência do carro e da capacidade do piloto para controlar a aceleração. As corridas Downhill (descendo a montanha) depende das técnicas de frenagem e controle do carro, necessitando menos potência vinda do carro.",
+    "description": "Ambientado na província de Gunma durante os anos 90, a série mostra a história de Takumi Fujiwara, um garoto de 18 anos que ajuda a loja de tofu de seu pai fazendo entregas todos os dias de manhã para o hotel no Monte Akina usando o carro de seu pai, um Toyota Sprinter Trueno GT-APEX (AE86). Takumi vem fazendo essas entregas desde que tinha 13 anos. Como resultado, suas habilidades são altamente refinadas, permitindo-o pilotar durante qualquer condição climática. Em uma corrida numa estrada da montanha Touge, potência não é o mais importante. Equilíbrio, habilidade e coragem são fatores determinantes para a vitória. Corridas na estrada da montanhasTouge são divididas em dois tipos: descida e subida Dowhill e Hillclimb/(Uphill). As corridas Hillclimb (subindo a montanha) depende mais da potência do carro e da capacidade do piloto para controlar a aceleração. As corridas Downhill (descendo a montanha) depende das técnicas de frenagem e controle do carro, necessitando menos potência vinda do carro.",
     "poster_url": "https://image.tmdb.org/t/p/w300//7C1PMnV0uMrMNcfws5J7aLNxe3Q.jpg",
     "backdrop_url": "",
     "imdb_rating": "8",
@@ -243814,7 +243814,7 @@
   {
     "id": "9477",
     "title": "Akaneiro ni Somaru Saka",
-    "description": "O anime Akane Iro Ni Somaru Saka gira em torno de um estudante chamado Junichi no qual parece ser um adolescente normal, mas surgiram lendas sobre si criada por seus amigos no ginásio e logo ficou conhecido por um nome terrível, Geno Killer! e muitos estudantes o temem por todas as historias contadas sobre ele que acabou se espalhando ate por outras escolas da região. Um dia antes do retorno das aulas do segundo semestre Junichi voltando para a sua casa encontra Yuuhi com dois encrenqueiros e vai em sua direção para salvar a linda menina que estava sendo perseguida por esses dois estudantes de outra escola, quando o reconheceram sem as suas luvas e o consideraram que estava louco o tornando terrível assim correndo com medo, Yuuki o agradece por sua gentileza e cada um segue com o seu dia.",
+    "description": "O anime Akane Iro Ni Somaru Saka gira em torno de um estudante chamado Junichi no qual parece ser um adolescente normal, mas surgiram lendas sobre si criada por seus amigos no ginásio e logo ficou conhecido por um nome terrível, Geno Killer! e muitos estudantes o temem por todas as historias contadas sobre ele que acabou se espalhando ate por outras escolas da região. Um dia antes do retorno das aulas do segundo semestre Junichi voltando para a sua casa encontra Yuuhi com dois encrenqueiros e vai em sua direção para salvar a linda menina que estava sendo perseguida por esses dois estudantes de outra escola, quando o reconheceram sem as suas luvas e o consideraram que estava louco o tornando terrível assim correndo com medo, Yuuki o agradece por sua gentileza e cada um segue com o seu dia.",
     "poster_url": "https://cdn.syncdev.com.br//uploads/video_thumb/9477.jpg",
     "backdrop_url": "",
     "imdb_rating": "7.2",
@@ -267345,7 +267345,7 @@
   {
     "id": "8243",
     "title": "Acchi Kocchi",
-    "description": "Uma grande Série de animação de televisão japonesa, Acchi Kocchi Online é totalmente baseado no grande mangá que teve o seu dia marcado no dia 05 do mês de abril e também na data de 28 de abril do ano de 2012. A Animação teve dois grandes episódios já lançadosásti e um episodio extra também foi lançado sendo ele um ova na data 16 de novembro do ano de 2012, o anime Acchi Kocchi Online, com o seu disco em blu-ray e 6 volumes já em DVD em seu país de origem no qual é o Japão. A grande abertura deste fantástico anime de televisão japonesa é  Atchi de Kotchi (あ っ ち で こ っ ち で?) no qualé cantado por Rumi Okubo, Hitomi  Nabatame, Nobuhiko Okamoto, Shintaro Asanuma e também por Kaory Fukuhara, sobre o encerramento de Acchi Kocchi Online e o seu tema destaque é Te o Gyu Shite ne (手 を ギ ュ し て ね?, titulo traduzido é “apertar a minha mão bem apertado”) que é cantado por Rumi Okubo.  Tendo o seu lançamento Acchi Kocchi Online foi induzida por Sentai Filmworks em que lançou a série anima em DVD na imensa America do Norte na data de 16 do mês de abril do ano de 2013.",
+    "description": "Uma grande Série de animação de televisão japonesa, Acchi Kocchi Online é totalmente baseado no grande mangá que teve o seu dia marcado no dia 05 do mês de abril e também na data de 28 de abril do ano de 2012. A Animação teve dois grandes episódios já lançadosásti e um episodio extra também foi lançado sendo ele um ova na data 16 de novembro do ano de 2012, o anime Acchi Kocchi Online, com o seu disco em blu-ray e 6 volumes já em DVD em seu país de origem no qual é o Japão. A grande abertura deste fantástico anime de televisão japonesa é  Atchi de Kotchi (あ っ ち で こ っ ち で?) no qualé cantado por Rumi Okubo, Hitomi  Nabatame, Nobuhiko Okamoto, Shintaro Asanuma e também por Kaory Fukuhara, sobre o encerramento de Acchi Kocchi Online e o seu tema destaque é Te o Gyu Shite ne (手 を ギ ュ し て ね?, titulo traduzido é “apertar a minha mão bem apertado”) que é cantado por Rumi Okubo.  Tendo o seu lançamento Acchi Kocchi Online foi induzida por Sentai Filmworks em que lançou a série anima em DVD na imensa America do Norte na data de 16 do mês de abril do ano de 2013.",
     "poster_url": "https://image.tmdb.org/t/p/w300//bgAoYAFo3cwvYDXWgEIzi58JAUN.jpg",
     "backdrop_url": "",
     "imdb_rating": "6.921",
@@ -272545,7 +272545,7 @@
   {
     "id": "7944",
     "title": "Initial D Second Stage",
-    "description": "Ambientado na província de Gunma durante os anos 90, a série mostra a história de Takumi Fujiwara, um garoto de 18 anos que ajuda a loja de tofu de seu pai fazendo entregas todos os dias de manhã para o hotel no Monte Akina usando o carro de seu pai, um Toyota Sprinter Trueno GT-APEX (AE86). Takumi vem fazendo essas entregas desde que tinha 13 anos. Como resultado, suas habilidades são altamente refinadas, permitindo-o pilotar durante qualquer condição climática. Em uma corrida numa estrada da montanha Touge, potência não é o mais importante. Equilíbrio, habilidade e coragem são fatores determinantes para a vitória. Corridas na estrada da montanhasTouge são divididas em dois tipos: descida e subida Dowhill e Hillclimb/(Uphill). As corridas Hillclimb (subindo a montanha) depende mais da potência do carro e da capacidade do piloto para controlar a aceleração. As corridas Downhill (descendo a montanha) depende das técnicas de frenagem e controle do carro, necessitando menos potência vinda do carro.",
+    "description": "Ambientado na província de Gunma durante os anos 90, a série mostra a história de Takumi Fujiwara, um garoto de 18 anos que ajuda a loja de tofu de seu pai fazendo entregas todos os dias de manhã para o hotel no Monte Akina usando o carro de seu pai, um Toyota Sprinter Trueno GT-APEX (AE86). Takumi vem fazendo essas entregas desde que tinha 13 anos. Como resultado, suas habilidades são altamente refinadas, permitindo-o pilotar durante qualquer condição climática. Em uma corrida numa estrada da montanha Touge, potência não é o mais importante. Equilíbrio, habilidade e coragem são fatores determinantes para a vitória. Corridas na estrada da montanhasTouge são divididas em dois tipos: descida e subida Dowhill e Hillclimb/(Uphill). As corridas Hillclimb (subindo a montanha) depende mais da potência do carro e da capacidade do piloto para controlar a aceleração. As corridas Downhill (descendo a montanha) depende das técnicas de frenagem e controle do carro, necessitando menos potência vinda do carro.",
     "poster_url": "https://cdn.syncdev.com.br//uploads/video_thumb/7944.jpg",
     "backdrop_url": "",
     "imdb_rating": "7.881",
@@ -310020,7 +310020,7 @@
   {
     "id": "6064",
     "title": "CLANNAD",
-    "description": "A história de Clannad gira em torno de Tomoya Okazaki, um estudante do terceiro ano do ensino médio que não gosta sua vida. A mãe de Tomoya, Atsuko, morreu quando Tomoya era pequeno, deixando seu pai, Naoyuki, para cuidá-lo. Após o acidente, o pai de Tomoya se tornou viciado em álcool e jogo, e criou brigas com seu filho. Um dia, Naoyuki, novamente discutindo com seu filho, empurrou Tomoya contra a parede, deslocando o ombro de seu filho gravemente. Desde então, Tomoya e seu pai passaram a se tratar bem, mas de uma forma distante, como se eles fossem estranhos ao invés de uma família.  Isso dói mais em Tomoya do que as antigas brigas com o pai, e o ressentimento de voltar para casa leva Tomoya a ficar constantemente fora de casa a noite toda. Além disso,a lesão no ombro incapacitou Tomoya de participar do seu clube de basquete, e o estimulou a se distanciar de sua escola e de outras atividades. Assim, sua vida de delinquente se inicia. O melhor amigo de Tomoya, Youhei Sunohara, que foi expulso do clube de futebol por uma briga, também é um delinquente e,muitas vezes fica em seu dormitório com Tomoya sem fazer nada.  A história começa na segunda-feira 14 de abril de 2003, no início do ano letivo, quando Tomoya encontra por acaso Nagisa Furukawa, uma garota de fala suave um ano mais velha que ele, que está repetindo o ano escolar por ter ficado muito doente no ano anterior. Seu objetivo é participar do clube de teatro para o qual ela não pode entrar devido à sua doença, mas eles descobrem que o clube de teatro foi fechado depois que os membros remanescentes se formaram. Como Tomoya tem muito tempo para livre, ele decide ajudar Nagisa a retomar o clube de teatro. Durante esse tempo, Tomoya faz amizade com várias outras garotas e começa a conhece-las mais profundamente, ajudando-as com seus problemas individuais.",
+    "description": "A história de Clannad gira em torno de Tomoya Okazaki, um estudante do terceiro ano do ensino médio que não gosta sua vida. A mãe de Tomoya, Atsuko, morreu quando Tomoya era pequeno, deixando seu pai, Naoyuki, para cuidá-lo. Após o acidente, o pai de Tomoya se tornou viciado em álcool e jogo, e criou brigas com seu filho. Um dia, Naoyuki, novamente discutindo com seu filho, empurrou Tomoya contra a parede, deslocando o ombro de seu filho gravemente. Desde então, Tomoya e seu pai passaram a se tratar bem, mas de uma forma distante, como se eles fossem estranhos ao invés de uma família.  Isso dói mais em Tomoya do que as antigas brigas com o pai, e o ressentimento de voltar para casa leva Tomoya a ficar constantemente fora de casa a noite toda. Além disso,a lesão no ombro incapacitou Tomoya de participar do seu clube de basquete, e o estimulou a se distanciar de sua escola e de outras atividades. Assim, sua vida de delinquente se inicia. O melhor amigo de Tomoya, Youhei Sunohara, que foi expulso do clube de futebol por uma briga, também é um delinquente e,muitas vezes fica em seu dormitório com Tomoya sem fazer nada.  A história começa na segunda-feira 14 de abril de 2003, no início do ano letivo, quando Tomoya encontra por acaso Nagisa Furukawa, uma garota de fala suave um ano mais velha que ele, que está repetindo o ano escolar por ter ficado muito doente no ano anterior. Seu objetivo é participar do clube de teatro para o qual ela não pode entrar devido à sua doença, mas eles descobrem que o clube de teatro foi fechado depois que os membros remanescentes se formaram. Como Tomoya tem muito tempo para livre, ele decide ajudar Nagisa a retomar o clube de teatro. Durante esse tempo, Tomoya faz amizade com várias outras garotas e começa a conhece-las mais profundamente, ajudando-as com seus problemas individuais.",
     "poster_url": "https://image.tmdb.org/t/p/w300//6zEIrR57zeLnsmafM0ZPc1GpjwF.jpg",
     "backdrop_url": "",
     "imdb_rating": "8.424",
@@ -318899,7 +318899,7 @@
   {
     "id": "5760",
     "title": "Initial D: Fourth Stage",
-    "description": "Ambientado na província de Gunma durante os anos 90, a série mostra a história de Takumi Fujiwara, um garoto de 18 anos que ajuda a loja de tofu de seu pai fazendo entregas todos os dias de manhã para o hotel no Monte Akina usando o carro de seu pai, um Toyota Sprinter Trueno GT-APEX (AE86). Takumi vem fazendo essas entregas desde que tinha 13 anos. Como resultado, suas habilidades são altamente refinadas, permitindo-o pilotar durante qualquer condição climática. Em uma corrida numa estrada da montanha Touge, potência não é o mais importante. Equilíbrio, habilidade e coragem são fatores determinantes para a vitória. Corridas na estrada da montanhasTouge são divididas em dois tipos: descida e subida Dowhill e Hillclimb/(Uphill). As corridas Hillclimb (subindo a montanha) depende mais da potência do carro e da capacidade do piloto para controlar a aceleração. As corridas Downhill (descendo a montanha) depende das técnicas de frenagem e controle do carro, necessitando menos potência vinda do carro.",
+    "description": "Ambientado na província de Gunma durante os anos 90, a série mostra a história de Takumi Fujiwara, um garoto de 18 anos que ajuda a loja de tofu de seu pai fazendo entregas todos os dias de manhã para o hotel no Monte Akina usando o carro de seu pai, um Toyota Sprinter Trueno GT-APEX (AE86). Takumi vem fazendo essas entregas desde que tinha 13 anos. Como resultado, suas habilidades são altamente refinadas, permitindo-o pilotar durante qualquer condição climática. Em uma corrida numa estrada da montanha Touge, potência não é o mais importante. Equilíbrio, habilidade e coragem são fatores determinantes para a vitória. Corridas na estrada da montanhasTouge são divididas em dois tipos: descida e subida Dowhill e Hillclimb/(Uphill). As corridas Hillclimb (subindo a montanha) depende mais da potência do carro e da capacidade do piloto para controlar a aceleração. As corridas Downhill (descendo a montanha) depende das técnicas de frenagem e controle do carro, necessitando menos potência vinda do carro.",
     "poster_url": "https://cdn.syncdev.com.br//uploads/video_thumb/5760.jpg",
     "backdrop_url": "",
     "imdb_rating": "7.9",
