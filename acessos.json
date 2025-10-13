@@ -1,0 +1,19 @@
+{
+  "chaves": [
+    {
+      "codigo": "W7BE-TKO6-HHGX",
+      "duracao_horas": 8760,
+      "descricao": "Plano anual - familia"
+    },
+    {
+      "codigo": "KRU8-05VT-6LS3",
+      "duracao_horas": 720,
+      "descricao": "Plano mensal - Cliente de Exemplo 2"
+    },
+    {
+      "codigo": "TESTEGRATIS",
+      "duracao_horas": 3,
+      "descricao": "Chave de teste público de 3 horas"
+    }
+  ]
+}
