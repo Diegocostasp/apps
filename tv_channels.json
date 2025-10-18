@@ -35,6 +35,69 @@
       "current_program": "Jornal 24h",
       "description": "Notícias do Brasil e do mundo.",
       "genre": "Notícias"
+    },
+   {
+      "id": "ch1760745107980",
+      "name": "moviesphere Brazil",
+      "stream_url": "https://amg00353-amg00353c29-plex-us-3205.playouts.now.amagi.tv/1080p-cc/index.m3u8",
+      "program_image": "https://pbs.twimg.com/media/Fw5NL_uWYAAJG1N.jpg",
+      "current_program": "Filmes online 24h",
+      "description": "Canal que passo Filmes online 24h ",
+      "genre": "Filmes e Series"
+    },
+    {
+      "id": "ch1760745450403",
+      "name": "BAND",
+      "stream_url": "https://hqf6tcxuhk.singularcdn.net.br/live/019498af-1fdf-7df5-86bd-e4a6f588d6a7/s1/playlist-480p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmlfc3ViIjoiLzAxOTQ5OGFmLTFmZGYtN2RmNS04NmJkLWU0YTZmNTg4ZDZhNy8iLCJ1aWQiOiI0NzdlN2Q0ZC02ZmIxLTQ1NGQtYTQ3MS00Y2IwMDliNWZkYTkiLCJyYXUiOm51bGwsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsIm5iZiI6MTc2MDc0NTMwMywiaWF0IjoxNzYwNzQ1MzAzLCJleHAiOjE3OTIyODEzMDMsImp0aSI6IjQ3N2U3ZDRkLTZmYjEtNDU0ZC1hNDcxLTRjYjAwOWI1ZmRhOSIsImlzcyI6IlNwYWxsYSJ9.4Gfckz9dkxsKLx49LMwpTtdP0hy_Cv4pnBRtkEpE_eg&uid=477e7d4d-6fb1-454d-a471-4cb009b5fda9",
+      "program_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA1tXHJ9lMjjOlwRhdpGib6Z39QLKlBldHmHCTmZh2p3YqPBmlG32g-hK79fDIS4U9DE5ScppDvArf3V86OH_7SafjTVazPqAotCDmop9yWxDR8yk5Gfd8sDbc0PvOHbt33eRN38g5SK5ZkfMgK45I4HyI476Z2aJOyti4qcbHpkqWSY3RolI9EmTaMAg/s200/BAND.webp",
+      "current_program": "Canal aberto",
+      "description": "Canal aberto Brasileiro, passa filmes, series, noticias, e outros. ",
+      "genre": "Aberto"
+    },
+    {
+      "id": "ch1760745548034",
+      "name": "RETRÔ CARTOON",
+      "stream_url": "https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w228229597.m3u8",
+      "program_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLbQIJk3tD7MwHLzMY-NlcQm3O1a2qj50PBnRNfgMsNFaPzUkQGVWDQcCg6_V6vg4mCQ31YgfA6ni-FKIIRaBjC8FSxV-IEDiKZTIr93qVZdbfuebt9YibwJSWCNBS40XuXR_SAtDFADfnWEUfqbRloiCe27rg0cyAMQ8QXzXBTAamjn-Yj_qcidM16l0/s200/RETR%C3%94%20CARTOON.webp",
+      "current_program": "Desenhos 24h",
+      "description": "Canal que passa desenhos antigos 24h",
+      "genre": "Desenhos"
+    },
+    {
+      "id": "ch1760745712041",
+      "name": "Masterchef Brazil",
+      "stream_url": "https://amg00627-amg00627c9-runtime-latam-2613.playouts.now.amagi.tv/playlist/amg00627-banijayfast-masterchefbrazil-runtimelatam/cb543e1e7a6c648d93d43d67d9ef46a3f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7253db80148b61299bce8c37683f03409a5e5afba358b1ebe90f41de3fa2b34855c47d17e29f43c8821ca688825a995e8674f045ce91f08ed514868f9b599364e63a1d2a4117f8d023e4a336b2df8c603a994e2547155094cbf9985a3d844b4648a286a1cd66f01dda8c2b955f3bb2169d5c90228f6aa77bc48b2ff1f7d1b5214d34b0b6380b46f0bfcbe09f3237ad7489c183bc2326d09c777c4ecd1f9a486b6bc5fec916869114c3e673d5b13a4b3d90c817c2cee385bab6d8499a219892a3c249282476173d964fab8c6cd830af1ec2aa426c11001edef039c382c94c0f614088935bda0769dab1ead2857a51af63144af861ab306f05fe115c50c40edcb71936cd4c7f863a33ef5d3b947decaa23f1b2d8e01404bbdfca478d0485dc38f7c62e884e197427811a4d353424f76d5d0777525bf10782f1d8e06d000c9e8fa79cf37248c9bd8a3076e6d1e8658f8680081013d35a25610e617f01d86408ad6a7aa3edc65ee3ad1c788a445545777b8d3c280ea5f8cbe8b4d7c504857ec6c3f27348513c33ec6355763c94dedf28344bfb5ac29dd7af1df1ddb9382bd8b269afe8a163cb8e6da9392d2762cacf27401c5e7c59c7fafa67fa51f89a11b59a850982bfcd5a728c32a70e078d90f258b8bcd1891f54d09d5e1731c38867dd25798e57f53b98de75efb5572d15280f1d91d91aac09f997b1ef1fb700e10f0f77e17dfbbbe6b0dd691fa7b242213c0450582e0627625cf68a9b344048edba26f454a9be06fe0c07654d32b4e8375788ec780b8f752f30d7c7e5bfed9b535e9a14b71faf470ca950012b9bbc1be291bdfeffc7221437d0b8af43acb2cae6e8d3d92d6a047c3af9990a4d163847525dac46cb9da5085de4610ff3b0aa0a413bfa8c9e/85/426x240_511680/index.m3u8",
+      "program_image": "https://yt3.googleusercontent.com/SpEpgMPzMHkNpUWQX8mk0Z1v4i1atngvm0ACQaJ70EzrBWuTvIojlRPA5qZ1CsSZmxlgVUNO=s176-c-k-c0x00ffffff-no-rj-mo",
+      "current_program": "Masterchef Brazil",
+      "description": "Canal passa Masterchef Brazil 24h",
+      "genre": "Comida, Diversos"
+    },
+    {
+      "id": "ch1760745855737",
+      "name": "Record News",
+      "stream_url": "https://stream.ads.ottera.tv/cl/251018d3pdij9mjrdhb4p0gqeg/960x540_1927200_1_f.m3u8?i=728_5431",
+      "program_image": "https://img1.static-ottera.com/prod/run/linear_channel/thumbnails/widescreen/480x270/record_news_thumbnail.jpg",
+      "current_program": "Noticias 24h",
+      "description": "Canal da Record que passa Noticias 24h",
+      "genre": "Noticias, Aberto"
+    },
+    {
+      "id": "ch1760746058585",
+      "name": "TVI Ficção",
+      "stream_url": "https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8",
+      "program_image": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a464ae68b020893d77567b327533efa8.webp",
+      "current_program": "Filmes, novelas e outros.",
+      "description": "A TVI Ficção é um canal de televisão português, pertencente à TVI. A programação é dedicada a telenovelas, séries, telefilmes, sitcoms, minisséries e magazines produzidos para a TVI.\n",
+      "genre": "Filmes e Series"
+    },
+    {
+      "id": "ch1760746263136",
+      "name": "Record TV Goiás",
+      "stream_url": "https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8",
+      "program_image": "https://portalquem.wordpress.com/wp-content/uploads/2014/02/record-goic3a1s.jpg",
+      "current_program": "Novelas, filmes e outros",
+      "description": "Canal, onde passa de tudo um pouco, de novelas e filmes a noticias e outros programas. ",
+      "genre": "Aberto"
     }
   ]
 }
