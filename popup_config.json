@@ -1,0 +1,12 @@
+{
+  "id": "aviso-inicial-001",
+  "show": true,
+  "expiryHours": 72,
+  "title": "Aviso Importante",
+  "content": "<p>Olá! Este é um aviso de teste. Você pode editar este conteúdo no arquivo <strong>popup_config.json</strong>.</p><p>Use este espaço para informar sobre atualizações, novos domínios ou pedir apoio.</p><p><strong>Exemplo de Doação:</strong></p><p>Gosta do site? Considere apoiar nosso trabalho com um PIX! <br><strong>Chave:</strong> seu-email@provedor.com</p>",
+  "closeButtonText": "Entendi, fechar",
+  "ctaButton": {
+    "text": "Baixe Nosso App!",
+    "link": "https://play.google.com/store/apps"
+  }
+}
