@@ -1,471 +1,695 @@
-#EXTM3U-1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/ubzMoVPMJyLvaRm1NxxlsayIfat.jpg" group-title="A��o",Ilha do Renascimento
-http://doacaodegatos.page.gd:80/movie/194235/136094/1.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/xfOJMmEixR6LVhj9BvVphrMNCO7.jpg" group-title="Terror",Sombras do Deserto
-http://doacaodegatos.page.gd:80/movie/194235/136094/2.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/dCLBCmOP8cfyqtU3F6X34I6uiVP.jpg" group-title="Terror",Engajamento Mortal
-http://doacaodegatos.page.gd:80/movie/194235/136094/3.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/ubzMoVPMJyLvaRm1NxxlsayIfat.jpg" group-title="A��o",Ilha do Renascimento
-http://doacaodegatos.page.gd:80/movie/194235/136094/4.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/xfOJMmEixR6LVhj9BvVphrMNCO7.jpg" group-title="Terror",Sombras do Deserto
-http://doacaodegatos.page.gd:80/movie/194235/136094/5.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/dCLBCmOP8cfyqtU3F6X34I6uiVP.jpg" group-title="Terror",Engajamento Mortal
-http://doacaodegatos.page.gd:80/movie/194235/136094/6.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Wandinha - Wandinha � s� desgosto" tvg-logo="" group-title="Sci-Fi &amp; Fantasy",Wandinha - Wandinha � s� desgosto
-http://doacaodegatos.page.gd:80/series/194235/136094/1.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Wandinha - Desgosto solit�rio" tvg-logo="" group-title="Sci-Fi &amp; Fantasy",Wandinha - Desgosto solit�rio
-http://doacaodegatos.page.gd:80/series/194235/136094/2.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Wandinha - Amiga ou desgosto" tvg-logo="" group-title="Sci-Fi &amp; Fantasy",Wandinha - Amiga ou desgosto
-http://doacaodegatos.page.gd:80/series/194235/136094/3.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Wandinha - Noite de desgosto" tvg-logo="" group-title="Sci-Fi &amp; Fantasy",Wandinha - Noite de desgosto
-http://doacaodegatos.page.gd:80/series/194235/136094/4.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Wandinha - Quem planta desgosto, colhe..." tvg-logo="" group-title="Sci-Fi &amp; Fantasy",Wandinha - Quem planta desgosto, colhe...
-http://doacaodegatos.page.gd:80/series/194235/136094/5.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Wandinha - Toma l�, n�o d� c�" tvg-logo="" group-title="Sci-Fi &amp; Fantasy",Wandinha - Toma l�, n�o d� c�
-http://doacaodegatos.page.gd:80/series/194235/136094/6.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Wandinha - Se n�o me conhece ainda..." tvg-logo="" group-title="Sci-Fi &amp; Fantasy",Wandinha - Se n�o me conhece ainda...
-http://doacaodegatos.page.gd:80/series/194235/136094/7.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Wandinha - Confrontando desgostos" tvg-logo="" group-title="Sci-Fi &amp; Fantasy",Wandinha - Confrontando desgostos
-http://doacaodegatos.page.gd:80/series/194235/136094/8.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Wandinha - Mais desgosto" tvg-logo="" group-title="Sci-Fi &amp; Fantasy",Wandinha - Mais desgosto
-http://doacaodegatos.page.gd:80/series/194235/136094/9.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Wandinha - Confronto" tvg-logo="" group-title="Sci-Fi &amp; Fantasy",Wandinha - Confronto
-http://doacaodegatos.page.gd:80/series/194235/136094/10.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Wandinha - Chamado da natureza" tvg-logo="" group-title="Sci-Fi &amp; Fantasy",Wandinha - Chamado da natureza
-http://doacaodegatos.page.gd:80/series/194235/136094/11.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Wandinha - Se estas paredes falassem" tvg-logo="" group-title="Sci-Fi &amp; Fantasy",Wandinha - Se estas paredes falassem
-http://doacaodegatos.page.gd:80/series/194235/136094/12.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Wandinha - Hyde escondido" tvg-logo="" group-title="Sci-Fi &amp; Fantasy",Wandinha - Hyde escondido
-http://doacaodegatos.page.gd:80/series/194235/136094/13.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Wandinha - Conhece a ti mesmo" tvg-logo="" group-title="Sci-Fi &amp; Fantasy",Wandinha - Conhece a ti mesmo
-http://doacaodegatos.page.gd:80/series/194235/136094/14.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Wandinha - De olho no dinheiro" tvg-logo="" group-title="Sci-Fi &amp; Fantasy",Wandinha - De olho no dinheiro
-http://doacaodegatos.page.gd:80/series/194235/136094/15.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Wandinha - � guerra!" tvg-logo="" group-title="Sci-Fi &amp; Fantasy",Wandinha - � guerra!
-http://doacaodegatos.page.gd:80/series/194235/136094/16.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Piloto" tvg-logo="" group-title="Drama",Dr. House - Piloto
-http://doacaodegatos.page.gd:80/series/194235/136094/17.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Paternidade" tvg-logo="" group-title="Drama",Dr. House - Paternidade
-http://doacaodegatos.page.gd:80/series/194235/136094/18.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - O Princ�pio de Occam" tvg-logo="" group-title="Drama",Dr. House - O Princ�pio de Occam
-http://doacaodegatos.page.gd:80/series/194235/136094/19.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Maternidade" tvg-logo="" group-title="Drama",Dr. House - Maternidade
-http://doacaodegatos.page.gd:80/series/194235/136094/20.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Criticado de uma forma ou de outra" tvg-logo="" group-title="Drama",Dr. House - Criticado de uma forma ou de outra
-http://doacaodegatos.page.gd:80/series/194235/136094/21.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - O M�todo de S�crates" tvg-logo="" group-title="Drama",Dr. House - O M�todo de S�crates
-http://doacaodegatos.page.gd:80/series/194235/136094/22.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Fidelidade" tvg-logo="" group-title="Drama",Dr. House - Fidelidade
-http://doacaodegatos.page.gd:80/series/194235/136094/23.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Veneno" tvg-logo="" group-title="Drama",Dr. House - Veneno
-http://doacaodegatos.page.gd:80/series/194235/136094/24.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Me Deixe Morrer" tvg-logo="" group-title="Drama",Dr. House - Me Deixe Morrer
-http://doacaodegatos.page.gd:80/series/194235/136094/25.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Hist�rias de Pacientes" tvg-logo="" group-title="Drama",Dr. House - Hist�rias de Pacientes
-http://doacaodegatos.page.gd:80/series/194235/136094/26.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Desintoxica��o" tvg-logo="" group-title="Drama",Dr. House - Desintoxica��o
-http://doacaodegatos.page.gd:80/series/194235/136094/27.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Medicina Esportiva" tvg-logo="" group-title="Drama",Dr. House - Medicina Esportiva
-http://doacaodegatos.page.gd:80/series/194235/136094/28.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Amaldi�oado" tvg-logo="" group-title="Drama",Dr. House - Amaldi�oado
-http://doacaodegatos.page.gd:80/series/194235/136094/29.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Controle" tvg-logo="" group-title="Drama",Dr. House - Controle
-http://doacaodegatos.page.gd:80/series/194235/136094/30.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Regras de G�ngsters" tvg-logo="" group-title="Drama",Dr. House - Regras de G�ngsters
-http://doacaodegatos.page.gd:80/series/194235/136094/31.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Gorda" tvg-logo="" group-title="Drama",Dr. House - Gorda
-http://doacaodegatos.page.gd:80/series/194235/136094/32.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Modelo Exemplar" tvg-logo="" group-title="Drama",Dr. House - Modelo Exemplar
-http://doacaodegatos.page.gd:80/series/194235/136094/33.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Beb�s e �gua para Banho" tvg-logo="" group-title="Drama",Dr. House - Beb�s e �gua para Banho
-http://doacaodegatos.page.gd:80/series/194235/136094/34.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Crian�as" tvg-logo="" group-title="Drama",Dr. House - Crian�as
-http://doacaodegatos.page.gd:80/series/194235/136094/35.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - O Amor D�i" tvg-logo="" group-title="Drama",Dr. House - O Amor D�i
-http://doacaodegatos.page.gd:80/series/194235/136094/36.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Tr�s Hist�rias" tvg-logo="" group-title="Drama",Dr. House - Tr�s Hist�rias
-http://doacaodegatos.page.gd:80/series/194235/136094/37.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Lua de Mel" tvg-logo="" group-title="Drama",Dr. House - Lua de Mel
-http://doacaodegatos.page.gd:80/series/194235/136094/38.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Aceita��o" tvg-logo="" group-title="Drama",Dr. House - Aceita��o
-http://doacaodegatos.page.gd:80/series/194235/136094/39.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Aut�psia" tvg-logo="" group-title="Drama",Dr. House - Aut�psia
-http://doacaodegatos.page.gd:80/series/194235/136094/40.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - A Queda do Telhado" tvg-logo="" group-title="Drama",Dr. House - A Queda do Telhado
-http://doacaodegatos.page.gd:80/series/194235/136094/41.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Tuberculose?" tvg-logo="" group-title="Drama",Dr. House - Tuberculose?
-http://doacaodegatos.page.gd:80/series/194235/136094/42.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - O Garoto do Papai" tvg-logo="" group-title="Drama",Dr. House - O Garoto do Papai
-http://doacaodegatos.page.gd:80/series/194235/136094/43.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - A Corrida" tvg-logo="" group-title="Drama",Dr. House - A Corrida
-http://doacaodegatos.page.gd:80/series/194235/136094/44.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - A Ca�a" tvg-logo="" group-title="Drama",Dr. House - A Ca�a
-http://doacaodegatos.page.gd:80/series/194235/136094/45.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - O Erro" tvg-logo="" group-title="Drama",Dr. House - O Erro
-http://doacaodegatos.page.gd:80/series/194235/136094/46.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - A Decep��o" tvg-logo="" group-title="Drama",Dr. House - A Decep��o
-http://doacaodegatos.page.gd:80/series/194235/136094/47.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Falha de Comunica��o" tvg-logo="" group-title="Drama",Dr. House - Falha de Comunica��o
-http://doacaodegatos.page.gd:80/series/194235/136094/48.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Preciso Saber" tvg-logo="" group-title="Drama",Dr. House - Preciso Saber
-http://doacaodegatos.page.gd:80/series/194235/136094/49.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Distra�es" tvg-logo="" group-title="Drama",Dr. House - Distra�es
-http://doacaodegatos.page.gd:80/series/194235/136094/50.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Superficial" tvg-logo="" group-title="Drama",Dr. House - Superficial
-http://doacaodegatos.page.gd:80/series/194235/136094/51.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - O Sexo Mata" tvg-logo="" group-title="Drama",Dr. House - O Sexo Mata
-http://doacaodegatos.page.gd:80/series/194235/136094/52.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Sem Pista" tvg-logo="" group-title="Drama",Dr. House - Sem Pista
-http://doacaodegatos.page.gd:80/series/194235/136094/53.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Por Seguran�a" tvg-logo="" group-title="Drama",Dr. House - Por Seguran�a
-http://doacaodegatos.page.gd:80/series/194235/136094/54.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Aposta Tudo" tvg-logo="" group-title="Drama",Dr. House - Aposta Tudo
-http://doacaodegatos.page.gd:80/series/194235/136094/55.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Cachorro que Dorme N�o Mente" tvg-logo="" group-title="Drama",Dr. House - Cachorro que Dorme N�o Mente
-http://doacaodegatos.page.gd:80/series/194235/136094/56.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - House Versus Deus" tvg-logo="" group-title="Drama",Dr. House - House Versus Deus
-http://doacaodegatos.page.gd:80/series/194235/136094/57.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Euforia (Parte 1)" tvg-logo="" group-title="Drama",Dr. House - Euforia (Parte 1)
-http://doacaodegatos.page.gd:80/series/194235/136094/58.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Euforia (Parte 2)" tvg-logo="" group-title="Drama",Dr. House - Euforia (Parte 2)
-http://doacaodegatos.page.gd:80/series/194235/136094/59.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Para Sempre" tvg-logo="" group-title="Drama",Dr. House - Para Sempre
-http://doacaodegatos.page.gd:80/series/194235/136094/60.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Quem � seu Pai?" tvg-logo="" group-title="Drama",Dr. House - Quem � seu Pai?
-http://doacaodegatos.page.gd:80/series/194235/136094/61.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Sem Motivo" tvg-logo="" group-title="Drama",Dr. House - Sem Motivo
-http://doacaodegatos.page.gd:80/series/194235/136094/62.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - O Significado das Coisas" tvg-logo="" group-title="Drama",Dr. House - O Significado das Coisas
-http://doacaodegatos.page.gd:80/series/194235/136094/63.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Com ou Sem Bengala" tvg-logo="" group-title="Drama",Dr. House - Com ou Sem Bengala
-http://doacaodegatos.page.gd:80/series/194235/136094/64.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Autoriza�es" tvg-logo="" group-title="Drama",Dr. House - Autoriza�es
-http://doacaodegatos.page.gd:80/series/194235/136094/65.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Rabiscos na Areia" tvg-logo="" group-title="Drama",Dr. House - Rabiscos na Areia
-http://doacaodegatos.page.gd:80/series/194235/136094/66.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - O Amor � Cego" tvg-logo="" group-title="Drama",Dr. House - O Amor � Cego
-http://doacaodegatos.page.gd:80/series/194235/136094/67.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - O que Ser�, Ser�" tvg-logo="" group-title="Drama",Dr. House - O que Ser�, Ser�
-http://doacaodegatos.page.gd:80/series/194235/136094/68.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - O Filho do Sujeito em Coma" tvg-logo="" group-title="Drama",Dr. House - O Filho do Sujeito em Coma
-http://doacaodegatos.page.gd:80/series/194235/136094/69.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - O Irm�o Mais Velho" tvg-logo="" group-title="Drama",Dr. House - O Irm�o Mais Velho
-http://doacaodegatos.page.gd:80/series/194235/136094/70.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - A Procura do Judas" tvg-logo="" group-title="Drama",Dr. House - A Procura do Judas
-http://doacaodegatos.page.gd:80/series/194235/136094/71.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Feliz Natal" tvg-logo="" group-title="Drama",Dr. House - Feliz Natal
-http://doacaodegatos.page.gd:80/series/194235/136094/72.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Palavras e A�es" tvg-logo="" group-title="Drama",Dr. House - Palavras e A�es
-http://doacaodegatos.page.gd:80/series/194235/136094/73.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Uma Agulha no Palheiro" tvg-logo="" group-title="Drama",Dr. House - Uma Agulha no Palheiro
-http://doacaodegatos.page.gd:80/series/194235/136094/74.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Um Dia numa Sala" tvg-logo="" group-title="Drama",Dr. House - Um Dia numa Sala
-http://doacaodegatos.page.gd:80/series/194235/136094/75.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Insens�vel a Dor" tvg-logo="" group-title="Drama",Dr. House - Insens�vel a Dor
-http://doacaodegatos.page.gd:80/series/194235/136094/76.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Meia Capacidade" tvg-logo="" group-title="Drama",Dr. House - Meia Capacidade
-http://doacaodegatos.page.gd:80/series/194235/136094/77.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Confidencial" tvg-logo="" group-title="Drama",Dr. House - Confidencial
-http://doacaodegatos.page.gd:80/series/194235/136094/78.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Posi��o Fetal" tvg-logo="" group-title="Drama",Dr. House - Posi��o Fetal
-http://doacaodegatos.page.gd:80/series/194235/136094/79.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Transportado pelo Ar" tvg-logo="" group-title="Drama",Dr. House - Transportado pelo Ar
-http://doacaodegatos.page.gd:80/series/194235/136094/80.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Viver a Idade" tvg-logo="" group-title="Drama",Dr. House - Viver a Idade
-http://doacaodegatos.page.gd:80/series/194235/136094/81.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Treinamento" tvg-logo="" group-title="Drama",Dr. House - Treinamento
-http://doacaodegatos.page.gd:80/series/194235/136094/82.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Fam�lia" tvg-logo="" group-title="Drama",Dr. House - Fam�lia
-http://doacaodegatos.page.gd:80/series/194235/136094/83.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Resigna��o" tvg-logo="" group-title="Drama",Dr. House - Resigna��o
-http://doacaodegatos.page.gd:80/series/194235/136094/84.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - O Idiota" tvg-logo="" group-title="Drama",Dr. House - O Idiota
-http://doacaodegatos.page.gd:80/series/194235/136094/85.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Erro Humano" tvg-logo="" group-title="Drama",Dr. House - Erro Humano
-http://doacaodegatos.page.gd:80/series/194235/136094/86.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Sozinho" tvg-logo="" group-title="Drama",Dr. House - Sozinho
-http://doacaodegatos.page.gd:80/series/194235/136094/87.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - A Coisa Certa" tvg-logo="" group-title="Drama",Dr. House - A Coisa Certa
-http://doacaodegatos.page.gd:80/series/194235/136094/88.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - 97 Segundos" tvg-logo="" group-title="Drama",Dr. House - 97 Segundos
-http://doacaodegatos.page.gd:80/series/194235/136094/89.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - As Palavras" tvg-logo="" group-title="Drama",Dr. House - As Palavras
-http://doacaodegatos.page.gd:80/series/194235/136094/90.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Espelho, Espelho Meu" tvg-logo="" group-title="Drama",Dr. House - Espelho, Espelho Meu
-http://doacaodegatos.page.gd:80/series/194235/136094/91.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - O Que For Preciso" tvg-logo="" group-title="Drama",Dr. House - O Que For Preciso
-http://doacaodegatos.page.gd:80/series/194235/136094/92.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Feio" tvg-logo="" group-title="Drama",Dr. House - Feio
-http://doacaodegatos.page.gd:80/series/194235/136094/93.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - N�o Queira Saber" tvg-logo="" group-title="Drama",Dr. House - N�o Queira Saber
-http://doacaodegatos.page.gd:80/series/194235/136094/94.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Jogos" tvg-logo="" group-title="Drama",Dr. House - Jogos
-http://doacaodegatos.page.gd:80/series/194235/136094/95.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - A Mentira N�o Se Compra" tvg-logo="" group-title="Drama",Dr. House - A Mentira N�o Se Compra
-http://doacaodegatos.page.gd:80/series/194235/136094/96.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Congelada" tvg-logo="" group-title="Drama",Dr. House - Congelada
-http://doacaodegatos.page.gd:80/series/194235/136094/97.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - N�o Mude Nunca" tvg-logo="" group-title="Drama",Dr. House - N�o Mude Nunca
-http://doacaodegatos.page.gd:80/series/194235/136094/98.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Adeus, Sr. Bonzinho" tvg-logo="" group-title="Drama",Dr. House - Adeus, Sr. Bonzinho
-http://doacaodegatos.page.gd:80/series/194235/136094/99.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Vivendo Um Sonho" tvg-logo="" group-title="Drama",Dr. House - Vivendo Um Sonho
-http://doacaodegatos.page.gd:80/series/194235/136094/100.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - A Cabe�a de House" tvg-logo="" group-title="Drama",Dr. House - A Cabe�a de House
-http://doacaodegatos.page.gd:80/series/194235/136094/101.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - O Cora��o De Wilson" tvg-logo="" group-title="Drama",Dr. House - O Cora��o De Wilson
-http://doacaodegatos.page.gd:80/series/194235/136094/102.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Morrer Muda Tudo" tvg-logo="" group-title="Drama",Dr. House - Morrer Muda Tudo
-http://doacaodegatos.page.gd:80/series/194235/136094/103.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - N�o � C�ncer" tvg-logo="" group-title="Drama",Dr. House - N�o � C�ncer
-http://doacaodegatos.page.gd:80/series/194235/136094/104.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Situa�es Adversas" tvg-logo="" group-title="Drama",Dr. House - Situa�es Adversas
-http://doacaodegatos.page.gd:80/series/194235/136094/105.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Marcas De Nascen�a" tvg-logo="" group-title="Drama",Dr. House - Marcas De Nascen�a
-http://doacaodegatos.page.gd:80/series/194235/136094/106.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Treze Da Sorte" tvg-logo="" group-title="Drama",Dr. House - Treze Da Sorte
-http://doacaodegatos.page.gd:80/series/194235/136094/107.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Alegria" tvg-logo="" group-title="Drama",Dr. House - Alegria
-http://doacaodegatos.page.gd:80/series/194235/136094/108.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - A Picada" tvg-logo="" group-title="Drama",Dr. House - A Picada
-http://doacaodegatos.page.gd:80/series/194235/136094/109.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Os Emancipados" tvg-logo="" group-title="Drama",Dr. House - Os Emancipados
-http://doacaodegatos.page.gd:80/series/194235/136094/110.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - �ltimo Recurso" tvg-logo="" group-title="Drama",Dr. House - �ltimo Recurso
-http://doacaodegatos.page.gd:80/series/194235/136094/111.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Deixe Que Comam Bolo" tvg-logo="" group-title="Drama",Dr. House - Deixe Que Comam Bolo
-http://doacaodegatos.page.gd:80/series/194235/136094/112.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Alegria Ao Mundo" tvg-logo="" group-title="Drama",Dr. House - Alegria Ao Mundo
-http://doacaodegatos.page.gd:80/series/194235/136094/113.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Indolor" tvg-logo="" group-title="Drama",Dr. House - Indolor
-http://doacaodegatos.page.gd:80/series/194235/136094/114.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Bebez�o" tvg-logo="" group-title="Drama",Dr. House - Bebez�o
-http://doacaodegatos.page.gd:80/series/194235/136094/115.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - O Bem Maior" tvg-logo="" group-title="Drama",Dr. House - O Bem Maior
-http://doacaodegatos.page.gd:80/series/194235/136094/116.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Infiel" tvg-logo="" group-title="Drama",Dr. House - Infiel
-http://doacaodegatos.page.gd:80/series/194235/136094/117.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - O Lado Mais Doce" tvg-logo="" group-title="Drama",Dr. House - O Lado Mais Doce
-http://doacaodegatos.page.gd:80/series/194235/136094/118.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Contrato Social" tvg-logo="" group-title="Drama",Dr. House - Contrato Social
-http://doacaodegatos.page.gd:80/series/194235/136094/119.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Vem C�, Gatinha" tvg-logo="" group-title="Drama",Dr. House - Vem C�, Gatinha
-http://doacaodegatos.page.gd:80/series/194235/136094/120.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Encarcerado" tvg-logo="" group-title="Drama",Dr. House - Encarcerado
-http://doacaodegatos.page.gd:80/series/194235/136094/121.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Simples Assim" tvg-logo="" group-title="Drama",Dr. House - Simples Assim
-http://doacaodegatos.page.gd:80/series/194235/136094/122.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Os Salvadores" tvg-logo="" group-title="Drama",Dr. House - Os Salvadores
-http://doacaodegatos.page.gd:80/series/194235/136094/123.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Dividido" tvg-logo="" group-title="Drama",Dr. House - Dividido
-http://doacaodegatos.page.gd:80/series/194235/136094/124.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Na Minha Pele" tvg-logo="" group-title="Drama",Dr. House - Na Minha Pele
-http://doacaodegatos.page.gd:80/series/194235/136094/125.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Os Dois Lados" tvg-logo="" group-title="Drama",Dr. House - Os Dois Lados
-http://doacaodegatos.page.gd:80/series/194235/136094/126.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Arruinado" tvg-logo="" group-title="Drama",Dr. House - Arruinado
-http://doacaodegatos.page.gd:80/series/194235/136094/127.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - O Grande Fiasco" tvg-logo="" group-title="Drama",Dr. House - O Grande Fiasco
-http://doacaodegatos.page.gd:80/series/194235/136094/128.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - O Tirano" tvg-logo="" group-title="Drama",Dr. House - O Tirano
-http://doacaodegatos.page.gd:80/series/194235/136094/129.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Carma Imediato" tvg-logo="" group-title="Drama",Dr. House - Carma Imediato
-http://doacaodegatos.page.gd:80/series/194235/136094/130.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Cora��o Valente" tvg-logo="" group-title="Drama",Dr. House - Cora��o Valente
-http://doacaodegatos.page.gd:80/series/194235/136094/131.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Verdades N�o Ditas" tvg-logo="" group-title="Drama",Dr. House - Verdades N�o Ditas
-http://doacaodegatos.page.gd:80/series/194235/136094/132.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Trabalho Em Equipe" tvg-logo="" group-title="Drama",Dr. House - Trabalho Em Equipe
-http://doacaodegatos.page.gd:80/series/194235/136094/133.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Santa Ignor�ncia" tvg-logo="" group-title="Drama",Dr. House - Santa Ignor�ncia
-http://doacaodegatos.page.gd:80/series/194235/136094/134.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Wilson" tvg-logo="" group-title="Drama",Dr. House - Wilson
-http://doacaodegatos.page.gd:80/series/194235/136094/135.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Segredos" tvg-logo="" group-title="Drama",Dr. House - Segredos
-http://doacaodegatos.page.gd:80/series/194235/136094/136.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Remorso" tvg-logo="" group-title="Drama",Dr. House - Remorso
-http://doacaodegatos.page.gd:80/series/194235/136094/137.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Fam�lia � Fam�lia" tvg-logo="" group-title="Drama",Dr. House - Fam�lia � Fam�lia
-http://doacaodegatos.page.gd:80/series/194235/136094/138.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Um Dia Daqueles" tvg-logo="" group-title="Drama",Dr. House - Um Dia Daqueles
-http://doacaodegatos.page.gd:80/series/194235/136094/139.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Vidas Privadas" tvg-logo="" group-title="Drama",Dr. House - Vidas Privadas
-http://doacaodegatos.page.gd:80/series/194235/136094/140.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Buraco Negro" tvg-logo="" group-title="Drama",Dr. House - Buraco Negro
-http://doacaodegatos.page.gd:80/series/194235/136094/141.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - A Sete Chaves" tvg-logo="" group-title="Drama",Dr. House - A Sete Chaves
-http://doacaodegatos.page.gd:80/series/194235/136094/142.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - A Queda do Cavaleiro" tvg-logo="" group-title="Drama",Dr. House - A Queda do Cavaleiro
-http://doacaodegatos.page.gd:80/series/194235/136094/143.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Aberto ou Fechado?" tvg-logo="" group-title="Drama",Dr. House - Aberto ou Fechado?
-http://doacaodegatos.page.gd:80/series/194235/136094/144.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Quest�o de Escolha" tvg-logo="" group-title="Drama",Dr. House - Quest�o de Escolha
-http://doacaodegatos.page.gd:80/series/194235/136094/145.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Passado" tvg-logo="" group-title="Drama",Dr. House - Passado
-http://doacaodegatos.page.gd:80/series/194235/136094/146.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Me Ajude" tvg-logo="" group-title="Drama",Dr. House - Me Ajude
-http://doacaodegatos.page.gd:80/series/194235/136094/147.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Epis�dio 22" tvg-logo="" group-title="Drama",Dr. House - Epis�dio 22
-http://doacaodegatos.page.gd:80/series/194235/136094/148.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - E Agora?" tvg-logo="" group-title="Drama",Dr. House - E Agora?
-http://doacaodegatos.page.gd:80/series/194235/136094/149.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Ego�sta" tvg-logo="" group-title="Drama",Dr. House - Ego�sta
-http://doacaodegatos.page.gd:80/series/194235/136094/150.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - N�o Escrito" tvg-logo="" group-title="Drama",Dr. House - N�o Escrito
-http://doacaodegatos.page.gd:80/series/194235/136094/151.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Massagem Terap�utica" tvg-logo="" group-title="Drama",Dr. House - Massagem Terap�utica
-http://doacaodegatos.page.gd:80/series/194235/136094/152.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Paternidade Indesejada" tvg-logo="" group-title="Drama",Dr. House - Paternidade Indesejada
-http://doacaodegatos.page.gd:80/series/194235/136094/153.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Pol�tica Do Escrit�rio" tvg-logo="" group-title="Drama",Dr. House - Pol�tica Do Escrit�rio
-http://doacaodegatos.page.gd:80/series/194235/136094/154.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Um Estranho Entre N�s" tvg-logo="" group-title="Drama",Dr. House - Um Estranho Entre N�s
-http://doacaodegatos.page.gd:80/series/194235/136094/155.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Pequenos Sacrif�cios" tvg-logo="" group-title="Drama",Dr. House - Pequenos Sacrif�cios
-http://doacaodegatos.page.gd:80/series/194235/136094/156.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Maior Que A Vida" tvg-logo="" group-title="Drama",Dr. House - Maior Que A Vida
-http://doacaodegatos.page.gd:80/series/194235/136094/157.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Incentivo e Castigo" tvg-logo="" group-title="Drama",Dr. House - Incentivo e Castigo
-http://doacaodegatos.page.gd:80/series/194235/136094/158.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Tratamento Em Fam�lia" tvg-logo="" group-title="Drama",Dr. House - Tratamento Em Fam�lia
-http://doacaodegatos.page.gd:80/series/194235/136094/159.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Voc� Tem Que Lembrar Disso" tvg-logo="" group-title="Drama",Dr. House - Voc� Tem Que Lembrar Disso
-http://doacaodegatos.page.gd:80/series/194235/136094/160.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Duas Hist�rias" tvg-logo="" group-title="Drama",Dr. House - Duas Hist�rias
-http://doacaodegatos.page.gd:80/series/194235/136094/161.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Prova de Recess�o" tvg-logo="" group-title="Drama",Dr. House - Prova de Recess�o
-http://doacaodegatos.page.gd:80/series/194235/136094/162.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Estilha�os De Bombas" tvg-logo="" group-title="Drama",Dr. House - Estilha�os De Bombas
-http://doacaodegatos.page.gd:80/series/194235/136094/163.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Montada No Touro" tvg-logo="" group-title="Drama",Dr. House - Montada No Touro
-http://doacaodegatos.page.gd:80/series/194235/136094/164.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Perda Do Encanto" tvg-logo="" group-title="Drama",Dr. House - Perda Do Encanto
-http://doacaodegatos.page.gd:80/series/194235/136094/165.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - A Investiga��o" tvg-logo="" group-title="Drama",Dr. House - A Investiga��o
-http://doacaodegatos.page.gd:80/series/194235/136094/166.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - A �ltima Tenta��o" tvg-logo="" group-title="Drama",Dr. House - A �ltima Tenta��o
-http://doacaodegatos.page.gd:80/series/194235/136094/167.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Mudan�as" tvg-logo="" group-title="Drama",Dr. House - Mudan�as
-http://doacaodegatos.page.gd:80/series/194235/136094/168.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - O Dilema" tvg-logo="" group-title="Drama",Dr. House - O Dilema
-http://doacaodegatos.page.gd:80/series/194235/136094/169.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Depois Do Expediente" tvg-logo="" group-title="Drama",Dr. House - Depois Do Expediente
-http://doacaodegatos.page.gd:80/series/194235/136094/170.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Vida Que Segue" tvg-logo="" group-title="Drama",Dr. House - Vida Que Segue
-http://doacaodegatos.page.gd:80/series/194235/136094/171.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Vinte Comprimidos" tvg-logo="" group-title="Drama",Dr. House - Vinte Comprimidos
-http://doacaodegatos.page.gd:80/series/194235/136094/172.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - O Transplante" tvg-logo="" group-title="Drama",Dr. House - O Transplante
-http://doacaodegatos.page.gd:80/series/194235/136094/173.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Caso De Caridade" tvg-logo="" group-title="Drama",Dr. House - Caso De Caridade
-http://doacaodegatos.page.gd:80/series/194235/136094/174.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Neg�cio Arriscado" tvg-logo="" group-title="Drama",Dr. House - Neg�cio Arriscado
-http://doacaodegatos.page.gd:80/series/194235/136094/175.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - A Confiss�o" tvg-logo="" group-title="Drama",Dr. House - A Confiss�o
-http://doacaodegatos.page.gd:80/series/194235/136094/176.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Pais" tvg-logo="" group-title="Drama",Dr. House - Pais
-http://doacaodegatos.page.gd:80/series/194235/136094/177.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Morto E Enterrado" tvg-logo="" group-title="Drama",Dr. House - Morto E Enterrado
-http://doacaodegatos.page.gd:80/series/194235/136094/178.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Os Perigos Da Paranoia" tvg-logo="" group-title="Drama",Dr. House - Os Perigos Da Paranoia
-http://doacaodegatos.page.gd:80/series/194235/136094/179.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Cara Metade" tvg-logo="" group-title="Drama",Dr. House - Cara Metade
-http://doacaodegatos.page.gd:80/series/194235/136094/180.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Fugitivos" tvg-logo="" group-title="Drama",Dr. House - Fugitivos
-http://doacaodegatos.page.gd:80/series/194235/136094/181.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Ningu�m � Culpado" tvg-logo="" group-title="Drama",Dr. House - Ningu�m � Culpado
-http://doacaodegatos.page.gd:80/series/194235/136094/182.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Chase" tvg-logo="" group-title="Drama",Dr. House - Chase
-http://doacaodegatos.page.gd:80/series/194235/136094/183.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - O Homem Da Casa" tvg-logo="" group-title="Drama",Dr. House - O Homem Da Casa
-http://doacaodegatos.page.gd:80/series/194235/136094/184.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - O Amor � Cego" tvg-logo="" group-title="Drama",Dr. House - O Amor � Cego
-http://doacaodegatos.page.gd:80/series/194235/136094/185.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Trai��o" tvg-logo="" group-title="Drama",Dr. House - Trai��o
-http://doacaodegatos.page.gd:80/series/194235/136094/186.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Revis�o de Conceitos" tvg-logo="" group-title="Drama",Dr. House - Revis�o de Conceitos
-http://doacaodegatos.page.gd:80/series/194235/136094/187.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Antes S�?" tvg-logo="" group-title="Drama",Dr. House - Antes S�?
-http://doacaodegatos.page.gd:80/series/194235/136094/188.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - De Corpo E Alma" tvg-logo="" group-title="Drama",Dr. House - De Corpo E Alma
-http://doacaodegatos.page.gd:80/series/194235/136094/189.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Tudo ou Nada" tvg-logo="" group-title="Drama",Dr. House - Tudo ou Nada
-http://doacaodegatos.page.gd:80/series/194235/136094/190.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - P�s-Morte" tvg-logo="" group-title="Drama",Dr. House - P�s-Morte
-http://doacaodegatos.page.gd:80/series/194235/136094/191.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - A Escolha" tvg-logo="" group-title="Drama",Dr. House - A Escolha
-http://doacaodegatos.page.gd:80/series/194235/136094/192.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House - Todo Mundo Morre" tvg-logo="" group-title="Drama",Dr. House - Todo Mundo Morre
-http://doacaodegatos.page.gd:80/series/194235/136094/193.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Stranger Things - Cap�tulo um: O desaparecimento de Will Byers" tvg-logo="" group-title="Drama",Stranger Things - Cap�tulo um: O desaparecimento de Will Byers
-http://doacaodegatos.page.gd:80/series/194235/136094/194.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Stranger Things - Cap�tulo dois: A estranha da Maple Street" tvg-logo="" group-title="Drama",Stranger Things - Cap�tulo dois: A estranha da Maple Street
-http://doacaodegatos.page.gd:80/series/194235/136094/195.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Stranger Things - Cap�tulo tr�s: Caramba" tvg-logo="" group-title="Drama",Stranger Things - Cap�tulo tr�s: Caramba
-http://doacaodegatos.page.gd:80/series/194235/136094/196.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Stranger Things - Cap�tulo quatro: O corpo" tvg-logo="" group-title="Drama",Stranger Things - Cap�tulo quatro: O corpo
-http://doacaodegatos.page.gd:80/series/194235/136094/197.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Stranger Things - Cap�tulo cinco: A pulga e o acrobata" tvg-logo="" group-title="Drama",Stranger Things - Cap�tulo cinco: A pulga e o acrobata
-http://doacaodegatos.page.gd:80/series/194235/136094/198.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Stranger Things - Cap�tulo seis: O monstro" tvg-logo="" group-title="Drama",Stranger Things - Cap�tulo seis: O monstro
-http://doacaodegatos.page.gd:80/series/194235/136094/199.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Stranger Things - Cap�tulo sete: A banheira" tvg-logo="" group-title="Drama",Stranger Things - Cap�tulo sete: A banheira
-http://doacaodegatos.page.gd:80/series/194235/136094/200.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Stranger Things - Cap�tulo oito: De ponta-cabe�a" tvg-logo="" group-title="Drama",Stranger Things - Cap�tulo oito: De ponta-cabe�a
-http://doacaodegatos.page.gd:80/series/194235/136094/201.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Stranger Things - Cap�tulo um: Mad Max" tvg-logo="" group-title="Drama",Stranger Things - Cap�tulo um: Mad Max
-http://doacaodegatos.page.gd:80/series/194235/136094/202.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Stranger Things - Cap�tulo dois: Gostosura ou travessura, aberra��o" tvg-logo="" group-title="Drama",Stranger Things - Cap�tulo dois: Gostosura ou travessura, aberra��o
-http://doacaodegatos.page.gd:80/series/194235/136094/203.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Stranger Things - Cap�tulo tr�s: O girino" tvg-logo="" group-title="Drama",Stranger Things - Cap�tulo tr�s: O girino
-http://doacaodegatos.page.gd:80/series/194235/136094/204.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Stranger Things - Cap�tulo quatro: Will, o s�bio" tvg-logo="" group-title="Drama",Stranger Things - Cap�tulo quatro: Will, o s�bio
-http://doacaodegatos.page.gd:80/series/194235/136094/205.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Stranger Things - Cap�tulo cinco: Dig Dug" tvg-logo="" group-title="Drama",Stranger Things - Cap�tulo cinco: Dig Dug
-http://doacaodegatos.page.gd:80/series/194235/136094/206.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Stranger Things - Cap�tulo seis: O espi�o" tvg-logo="" group-title="Drama",Stranger Things - Cap�tulo seis: O espi�o
-http://doacaodegatos.page.gd:80/series/194235/136094/207.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Stranger Things - Cap�tulo sete: A irm� perdida" tvg-logo="" group-title="Drama",Stranger Things - Cap�tulo sete: A irm� perdida
-http://doacaodegatos.page.gd:80/series/194235/136094/208.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Stranger Things - Cap�tulo oito: O Devorador de Mentes" tvg-logo="" group-title="Drama",Stranger Things - Cap�tulo oito: O Devorador de Mentes
-http://doacaodegatos.page.gd:80/series/194235/136094/209.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Stranger Things - Cap�tulo nove: O portal" tvg-logo="" group-title="Drama",Stranger Things - Cap�tulo nove: O portal
-http://doacaodegatos.page.gd:80/series/194235/136094/210.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Stranger Things - Cap�tulo um: Est� me ouvindo, Suzie?" tvg-logo="" group-title="Drama",Stranger Things - Cap�tulo um: Est� me ouvindo, Suzie?
-http://doacaodegatos.page.gd:80/series/194235/136094/211.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Stranger Things - Cap�tulo dois: O caso dos ratos" tvg-logo="" group-title="Drama",Stranger Things - Cap�tulo dois: O caso dos ratos
-http://doacaodegatos.page.gd:80/series/194235/136094/212.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Stranger Things - Cap�tulo tr�s: A salva-vidas desaparecida" tvg-logo="" group-title="Drama",Stranger Things - Cap�tulo tr�s: A salva-vidas desaparecida
-http://doacaodegatos.page.gd:80/series/194235/136094/213.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Stranger Things - Cap�tulo quatro: A prova da sauna" tvg-logo="" group-title="Drama",Stranger Things - Cap�tulo quatro: A prova da sauna
-http://doacaodegatos.page.gd:80/series/194235/136094/214.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Stranger Things - Cap�tulo cinco: Os devorados" tvg-logo="" group-title="Drama",Stranger Things - Cap�tulo cinco: Os devorados
-http://doacaodegatos.page.gd:80/series/194235/136094/215.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Stranger Things - Cap�tulo seis: E pluribus unum" tvg-logo="" group-title="Drama",Stranger Things - Cap�tulo seis: E pluribus unum
-http://doacaodegatos.page.gd:80/series/194235/136094/216.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Stranger Things - Cap�tulo sete: A mordida" tvg-logo="" group-title="Drama",Stranger Things - Cap�tulo sete: A mordida
-http://doacaodegatos.page.gd:80/series/194235/136094/217.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Stranger Things - Cap�tulo oito: A batalha de Starcourt" tvg-logo="" group-title="Drama",Stranger Things - Cap�tulo oito: A batalha de Starcourt
-http://doacaodegatos.page.gd:80/series/194235/136094/218.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Stranger Things - Cap�tulo um: O Clube Hellfire" tvg-logo="" group-title="Drama",Stranger Things - Cap�tulo um: O Clube Hellfire
-http://doacaodegatos.page.gd:80/series/194235/136094/219.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Stranger Things - Cap�tulo dois: A maldi��o de Vecna" tvg-logo="" group-title="Drama",Stranger Things - Cap�tulo dois: A maldi��o de Vecna
-http://doacaodegatos.page.gd:80/series/194235/136094/220.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Stranger Things - Cap�tulo tr�s: O monstro e a super-hero�na" tvg-logo="" group-title="Drama",Stranger Things - Cap�tulo tr�s: O monstro e a super-hero�na
-http://doacaodegatos.page.gd:80/series/194235/136094/221.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Stranger Things - Cap�tulo quatro: Querido Billy" tvg-logo="" group-title="Drama",Stranger Things - Cap�tulo quatro: Querido Billy
-http://doacaodegatos.page.gd:80/series/194235/136094/222.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Stranger Things - Cap�tulo cinco: Projeto Nina" tvg-logo="" group-title="Drama",Stranger Things - Cap�tulo cinco: Projeto Nina
-http://doacaodegatos.page.gd:80/series/194235/136094/223.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Stranger Things - Cap�tulo seis: Mergulho" tvg-logo="" group-title="Drama",Stranger Things - Cap�tulo seis: Mergulho
-http://doacaodegatos.page.gd:80/series/194235/136094/224.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Stranger Things - Cap�tulo sete: O massacre no laborat�rio de Hawkins" tvg-logo="" group-title="Drama",Stranger Things - Cap�tulo sete: O massacre no laborat�rio de Hawkins
-http://doacaodegatos.page.gd:80/series/194235/136094/225.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Stranger Things - Cap�tulo oito: Papai" tvg-logo="" group-title="Drama",Stranger Things - Cap�tulo oito: Papai
-http://doacaodegatos.page.gd:80/series/194235/136094/226.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Stranger Things - Cap�tulo nove: E o plano de Onze" tvg-logo="" group-title="Drama",Stranger Things - Cap�tulo nove: E o plano de Onze
-http://doacaodegatos.page.gd:80/series/194235/136094/227.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="IT: Bem-Vindos a Derry - S01E01" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/x9yY8btuQt8n0qwnw8L17VRfTYz.jpg" group-title="Sci-Fi &amp; Fantasy",IT: Bem-Vindos a Derry - S01E01
-http://doacaodegatos.page.gd:80/series/194235/136094/228.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="IT: Bem-Vindos a Derry - S01E02" tvg-logo="" group-title="Sci-Fi &amp; Fantasy",IT: Bem-Vindos a Derry - S01E02
-http://doacaodegatos.page.gd:80/series/194235/136094/229.mp4 
+#EXTM3U
+#EXTINF:0 tvg-logo="https://cdn.syncdev.com.br//uploads/video_thumb/15419.jpg" group-title="Filmes",Lendas dos Heróis do Condor: Os Valentes (2025)
+https://cdn.iageni.com/m/Lendas.dos.Her%C3%B3is.do.Condor.Os.Valentes.2025.1080p.WEB-DL.DUAL.2.0.mp4
+#EXTINF:0 tvg-logo="https://cdn.syncdev.com.br//uploads/video_thumb/15421.jpg" group-title="Filmes",O Demônio do Alasca (2025)
+https://cdn.iageni.com/m/O.Dem%C3%B4nio.do.Alasca.2025.1080p.WEB-DL.DUAL.2.0.mp4
+#EXTINF:0 tvg-logo="https://cdn.syncdev.com.br//uploads/video_thumb/15423.jpg" group-title="Filmes",O Ônibus Perdido (2025)
+https://cdn.iageni.com/m/O.%C3%94nibus.Perdido.2025.1080p.WEB-DL.DUAL.5.1.mp4
+#EXTINF:0 tvg-logo="https://cdn.syncdev.com.br//uploads/video_thumb/15390.jpg" group-title="Filmes",O Vingador Tóxico (2025)
+https://cdn.iageni.com/m/The.Toxic.Avenger.2023.1080p.CAMRip.Legendado.mp4
+#EXTINF:0 tvg-logo="https://cdn.syncdev.com.br//uploads/video_thumb/15468.jpg" group-title="Filmes",Presente Maldito (2025)
+https://cdn.iageni.com/m/Presente.Maldito.2025.1080p.WEB-DL.DUAL.5.1.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//h1oWkmLITrlTePc2wbQBbRO70Wn.jpg" group-title="Séries",Alice in Borderland - S01E01 - Episódio 1x1
+https://cdn3.iageni.com/Alice%20in%20Borderland%20S01%20E01_110316.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//h1oWkmLITrlTePc2wbQBbRO70Wn.jpg" group-title="Séries",Alice in Borderland - S01E02 - Episódio 1x2
+https://cdn3.iageni.com/Alice%20in%20Borderland%20S01%20E02_110316.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//h1oWkmLITrlTePc2wbQBbRO70Wn.jpg" group-title="Séries",Alice in Borderland - S01E03 - Episódio 1x3
+https://cdn3.iageni.com/Alice%20in%20Borderland%20S01%20E03_110316.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//h1oWkmLITrlTePc2wbQBbRO70Wn.jpg" group-title="Séries",Alice in Borderland - S01E04 - Episódio 1x4
+https://cdn3.iageni.com/Alice%20in%20Borderland%20S01%20E04_110316.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//h1oWkmLITrlTePc2wbQBbRO70Wn.jpg" group-title="Séries",Alice in Borderland - S01E05 - Episódio 1x5
+https://cdn3.iageni.com/Alice%20in%20Borderland%20S01%20E05_110316.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//h1oWkmLITrlTePc2wbQBbRO70Wn.jpg" group-title="Séries",Alice in Borderland - S01E06 - Episódio 1x6
+https://cdn3.iageni.com/Alice%20in%20Borderland%20S01%20E06_110316.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//h1oWkmLITrlTePc2wbQBbRO70Wn.jpg" group-title="Séries",Alice in Borderland - S01E07 - Episódio 1x7
+https://cdn3.iageni.com/Alice%20in%20Borderland%20S01%20E07_110316.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//h1oWkmLITrlTePc2wbQBbRO70Wn.jpg" group-title="Séries",Alice in Borderland - S01E08 - Episódio 1x8
+https://cdn3.iageni.com/Alice%20in%20Borderland%20S01%20E08_110316.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//h1oWkmLITrlTePc2wbQBbRO70Wn.jpg" group-title="Séries",Alice in Borderland - S02E01 - Episódio 2x1
+https://cdn3.iageni.com/Alice%20in%20Borderland%20S02%20E01_110316.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//h1oWkmLITrlTePc2wbQBbRO70Wn.jpg" group-title="Séries",Alice in Borderland - S02E02 - Episódio 2x2
+https://cdn3.iageni.com/Alice%20in%20Borderland%20S02%20E02_110316.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//h1oWkmLITrlTePc2wbQBbRO70Wn.jpg" group-title="Séries",Alice in Borderland - S02E03 - Episódio 2x3
+https://cdn3.iageni.com/Alice%20in%20Borderland%20S02%20E03_110316.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//h1oWkmLITrlTePc2wbQBbRO70Wn.jpg" group-title="Séries",Alice in Borderland - S02E04 - Episódio 2x4
+https://cdn3.iageni.com/Alice%20in%20Borderland%20S02%20E04_110316.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//h1oWkmLITrlTePc2wbQBbRO70Wn.jpg" group-title="Séries",Alice in Borderland - S02E05 - Episódio 2x5
+https://cdn3.iageni.com/Alice%20in%20Borderland%20S02%20E05_110316.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//h1oWkmLITrlTePc2wbQBbRO70Wn.jpg" group-title="Séries",Alice in Borderland - S02E06 - Episódio 2x6
+https://cdn3.iageni.com/Alice%20in%20Borderland%20S02%20E06_110316.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//h1oWkmLITrlTePc2wbQBbRO70Wn.jpg" group-title="Séries",Alice in Borderland - S02E07 - Episódio 2x7
+https://cdn3.iageni.com/Alice%20in%20Borderland%20S02%20E07_110316.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//h1oWkmLITrlTePc2wbQBbRO70Wn.jpg" group-title="Séries",Alice in Borderland - S02E08 - Episódio 2x8
+https://cdn3.iageni.com/Alice%20in%20Borderland%20S02%20E08_110316.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//h1oWkmLITrlTePc2wbQBbRO70Wn.jpg" group-title="Séries",Alice in Borderland - S03E01 - Episódio 3x1
+https://cdn.iageni.com/m/Alice%20in%20Borderland%20S03E01%20WEB-DL%201080p%20x264%20DUAL%205.1.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//h1oWkmLITrlTePc2wbQBbRO70Wn.jpg" group-title="Séries",Alice in Borderland - S03E02 - Episódio 3x2
+https://cdn.iageni.com/m/Alice%20in%20Borderland%20S03E02%20WEB-DL%201080p%20x264%20DUAL%205.1.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//h1oWkmLITrlTePc2wbQBbRO70Wn.jpg" group-title="Séries",Alice in Borderland - S03E03 - Episódio 3x3
+https://cdn.iageni.com/m/Alice%20in%20Borderland%20S03E03%20WEB-DL%201080p%20x264%20DUAL%205.1.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//h1oWkmLITrlTePc2wbQBbRO70Wn.jpg" group-title="Séries",Alice in Borderland - S03E04 - Episódio 3x4
+https://cdn.iageni.com/m/Alice%20in%20Borderland%20S03E04%20WEB-DL%201080p%20x264%20DUAL%205.1.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//h1oWkmLITrlTePc2wbQBbRO70Wn.jpg" group-title="Séries",Alice in Borderland - S03E05 - Episódio 3x5
+https://cdn.iageni.com/m/Alice%20in%20Borderland%20S03E05%20WEB-DL%201080p%20x264%20DUAL%205.1.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//h1oWkmLITrlTePc2wbQBbRO70Wn.jpg" group-title="Séries",Alice in Borderland - S03E06 - Episódio 3x6
+https://cdn.iageni.com/m/Alice%20in%20Borderland%20S03E06%20WEB-DL%201080p%20x264%20DUAL%205.1.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S01E01 - Piloto
+https://cdn3.cnvsplus.com/Dr.%20House%20S01%20E01_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S01E02 - Paternidade
+https://cdn3.cnvsplus.com/Dr.%20House%20S01%20E02_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S01E03 - O Princípio de Occam
+https://cdn3.cnvsplus.com/Dr.%20House%20S01%20E03_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S01E04 - Maternidade
+https://cdn3.cnvsplus.com/Dr.%20House%20S01%20E04_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S01E05 - Criticado de uma forma ou de outra
+https://cdn3.cnvsplus.com/Dr.%20House%20S01%20E05_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S01E06 - O Método de Sócrates
+https://cdn3.cnvsplus.com/Dr.%20House%20S01%20E06_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S01E07 - Fidelidade
+https://cdn3.cnvsplus.com/Dr.%20House%20S01%20E07_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S01E08 - Veneno
+https://cdn3.cnvsplus.com/Dr.%20House%20S01%20E08_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S01E09 - Me Deixe Morrer
+https://cdn3.cnvsplus.com/Dr.%20House%20S01%20E09_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S01E10 - Histórias de Pacientes
+https://cdn3.cnvsplus.com/Dr.%20House%20S01%20E10_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S01E11 - Desintoxicação
+https://cdn3.cnvsplus.com/Dr.%20House%20S01%20E11_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S01E12 - Medicina Esportiva
+https://cdn3.cnvsplus.com/Dr.%20House%20S01%20E12_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S01E13 - Amaldiçoado
+https://cdn3.cnvsplus.com/Dr.%20House%20S01%20E13_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S01E14 - Controle
+https://cdn3.cnvsplus.com/Dr.%20House%20S01%20E14_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S01E15 - Regras de Gângsters
+https://cdn3.cnvsplus.com/Dr.%20House%20S01%20E15_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S01E16 - Gorda
+https://cdn3.cnvsplus.com/Dr.%20House%20S01%20E16_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S01E17 - Modelo Exemplar
+https://cdn3.cnvsplus.com/Dr.%20House%20S01%20E17_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S01E18 - Bebês e Água para Banho
+https://cdn3.cnvsplus.com/Dr.%20House%20S01%20E18_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S01E19 - Crianças
+https://cdn3.cnvsplus.com/Dr.%20House%20S01%20E19_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S01E20 - O Amor Dói
+https://cdn3.cnvsplus.com/Dr.%20House%20S01%20E20_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S01E21 - Três Histórias
+https://cdn3.cnvsplus.com/Dr.%20House%20S01%20E21_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S01E22 - Lua de Mel
+https://cdn3.cnvsplus.com/Dr.%20House%20S01%20E22_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S02E01 - Aceitação
+https://cdn3.cnvsplus.com/Dr.%20House%20S02%20E01_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S02E02 - Autópsia
+https://cdn3.cnvsplus.com/Dr.%20House%20S02%20E02_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S02E03 - A Queda do Telhado
+https://cdn3.cnvsplus.com/Dr.%20House%20S02%20E03_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S02E04 - Tuberculose?
+https://cdn3.cnvsplus.com/Dr.%20House%20S02%20E04_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S02E05 - O Garoto do Papai
+https://cdn3.cnvsplus.com/Dr.%20House%20S02%20E05_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S02E06 - A Corrida
+https://cdn3.cnvsplus.com/Dr.%20House%20S02%20E06_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S02E07 - A Caça
+https://cdn3.cnvsplus.com/Dr.%20House%20S02%20E07_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S02E08 - O Erro
+https://cdn3.cnvsplus.com/Dr.%20House%20S02%20E08_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S02E09 - A Decepção
+https://cdn3.cnvsplus.com/Dr.%20House%20S02%20E09_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S02E10 - Falha de Comunicação
+https://cdn3.cnvsplus.com/Dr.%20House%20S02%20E10_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S02E11 - Preciso Saber
+https://cdn3.cnvsplus.com/Dr.%20House%20S02%20E11_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S02E12 - Distrações
+https://cdn3.cnvsplus.com/Dr.%20House%20S02%20E12_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S02E13 - Superficial
+https://cdn3.cnvsplus.com/Dr.%20House%20S02%20E13_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S02E14 - O Sexo Mata
+https://cdn3.cnvsplus.com/Dr.%20House%20S02%20E14_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S02E15 - Sem Pista
+https://cdn3.cnvsplus.com/Dr.%20House%20S02%20E15_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S02E16 - Por Segurança
+https://cdn3.cnvsplus.com/Dr.%20House%20S02%20E16_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S02E17 - Aposta Tudo
+https://cdn3.cnvsplus.com/Dr.%20House%20S02%20E17_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S02E18 - Cachorro que Dorme Não Mente
+https://cdn3.cnvsplus.com/Dr.%20House%20S02%20E18_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S02E19 - House Versus Deus
+https://cdn3.cnvsplus.com/Dr.%20House%20S02%20E19_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S02E20 - Euforia (Parte 1)
+https://cdn3.cnvsplus.com/Dr.%20House%20S02%20E20_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S02E21 - Euforia (Parte 2)
+https://cdn3.cnvsplus.com/Dr.%20House%20S02%20E21_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S02E22 - Para Sempre
+https://cdn3.cnvsplus.com/Dr.%20House%20S02%20E22_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S02E23 - Quem é seu Pai?
+https://cdn3.cnvsplus.com/Dr.%20House%20S02%20E23_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S02E24 - Sem Motivo
+https://cdn3.cnvsplus.com/Dr.%20House%20S02%20E24_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S03E01 - O Significado das Coisas
+https://cdn3.cnvsplus.com/Dr.%20House%20S03%20E01_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S03E02 - Com ou Sem Bengala
+https://cdn3.cnvsplus.com/Dr.%20House%20S03%20E02_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S03E03 - Autorizações
+https://cdn3.cnvsplus.com/Dr.%20House%20S03%20E03_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S03E04 - Rabiscos na Areia
+https://cdn3.cnvsplus.com/Dr.%20House%20S03%20E04_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S03E05 - O Amor é Cego
+https://cdn3.cnvsplus.com/Dr.%20House%20S03%20E05_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S03E06 - O que Será, Será
+https://cdn3.cnvsplus.com/Dr.%20House%20S03%20E06_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S03E07 - O Filho do Sujeito em Coma
+https://cdn3.cnvsplus.com/Dr.%20House%20S03%20E07_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S03E08 - O Irmão Mais Velho
+https://cdn3.cnvsplus.com/Dr.%20House%20S03%20E08_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S03E09 - A Procura do Judas
+https://cdn3.cnvsplus.com/Dr.%20House%20S03%20E09_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S03E10 - Feliz Natal
+https://cdn3.cnvsplus.com/Dr.%20House%20S03%20E10_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S03E11 - Palavras e Ações
+https://cdn3.cnvsplus.com/Dr.%20House%20S03%20E11_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S03E12 - Uma Agulha no Palheiro
+https://cdn3.cnvsplus.com/Dr.%20House%20S03%20E12_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S03E13 - Um Dia numa Sala
+https://cdn3.cnvsplus.com/Dr.%20House%20S03%20E13_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S03E14 - Insensível a Dor
+https://cdn3.cnvsplus.com/Dr.%20House%20S03%20E14_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S03E15 - Meia Capacidade
+https://cdn3.cnvsplus.com/Dr.%20House%20S03%20E15_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S03E16 - Confidencial
+https://cdn3.cnvsplus.com/Dr.%20House%20S03%20E16_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S03E17 - Posição Fetal
+https://cdn3.cnvsplus.com/Dr.%20House%20S03%20E17_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S03E18 - Transportado pelo Ar
+https://cdn3.cnvsplus.com/Dr.%20House%20S03%20E18_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S03E19 - Viver a Idade
+https://cdn3.cnvsplus.com/Dr.%20House%20S03%20E19_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S03E20 - Treinamento
+https://cdn3.cnvsplus.com/Dr.%20House%20S03%20E20_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S03E21 - Família
+https://cdn3.cnvsplus.com/Dr.%20House%20S03%20E21_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S03E22 - Resignação
+https://cdn3.cnvsplus.com/Dr.%20House%20S03%20E22_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S03E23 - O Idiota
+https://cdn3.cnvsplus.com/Dr.%20House%20S03%20E23_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S03E24 - Erro Humano
+https://cdn3.cnvsplus.com/Dr.%20House%20S03%20E24_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S04E01 - Sozinho
+https://cdn3.cnvsplus.com/Dr.%20House%20S04%20E01_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S04E02 - A Coisa Certa
+https://cdn3.cnvsplus.com/Dr.%20House%20S04%20E02_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S04E03 - 97 Segundos
+https://cdn3.cnvsplus.com/Dr.%20House%20S04%20E03_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S04E04 - As Palavras
+https://cdn3.cnvsplus.com/Dr.%20House%20S04%20E04_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S04E05 - Espelho, Espelho Meu
+https://cdn3.cnvsplus.com/Dr.%20House%20S04%20E05_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S04E06 - O Que For Preciso
+https://cdn3.cnvsplus.com/Dr.%20House%20S04%20E06_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S04E07 - Feio
+https://cdn3.cnvsplus.com/Dr.%20House%20S04%20E07_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S04E08 - Não Queira Saber
+https://cdn3.cnvsplus.com/Dr.%20House%20S04%20E08_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S04E09 - Jogos
+https://cdn3.cnvsplus.com/Dr.%20House%20S04%20E09_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S04E10 - A Mentira Não Se Compra
+https://cdn3.cnvsplus.com/Dr.%20House%20S04%20E10_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S04E11 - Congelada
+https://cdn3.cnvsplus.com/Dr.%20House%20S04%20E11_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S04E12 - Não Mude Nunca
+https://cdn3.cnvsplus.com/Dr.%20House%20S04%20E12_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S04E13 - Adeus, Sr. Bonzinho
+https://cdn3.cnvsplus.com/Dr.%20House%20S04%20E13_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S04E14 - Vivendo Um Sonho
+https://cdn3.cnvsplus.com/Dr.%20House%20S04%20E14_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S04E15 - A Cabeça de House
+https://cdn3.cnvsplus.com/Dr.%20House%20S04%20E15_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S04E16 - O Coração De Wilson
+https://cdn3.cnvsplus.com/Dr.%20House%20S04%20E16_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S05E01 - Morrer Muda Tudo
+https://cdn3.cnvsplus.com/Dr.%20House%20S05%20E01_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S05E02 - Não É Câncer
+https://cdn3.cnvsplus.com/Dr.%20House%20S05%20E02_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S05E03 - Situações Adversas
+https://cdn3.cnvsplus.com/Dr.%20House%20S05%20E03_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S05E04 - Marcas De Nascença
+https://cdn3.cnvsplus.com/Dr.%20House%20S05%20E04_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S05E05 - Treze Da Sorte
+https://cdn3.cnvsplus.com/Dr.%20House%20S05%20E05_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S05E06 - Alegria
+https://cdn3.cnvsplus.com/Dr.%20House%20S05%20E06_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S05E07 - A Picada
+https://cdn3.cnvsplus.com/Dr.%20House%20S05%20E07_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S05E08 - Os Emancipados
+https://cdn3.cnvsplus.com/Dr.%20House%20S05%20E08_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S05E09 - Último Recurso
+https://cdn3.cnvsplus.com/Dr.%20House%20S05%20E09_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S05E10 - Deixe Que Comam Bolo
+https://cdn3.cnvsplus.com/Dr.%20House%20S05%20E10_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S05E11 - Alegria Ao Mundo
+https://cdn3.cnvsplus.com/Dr.%20House%20S05%20E11_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S05E12 - Indolor
+https://cdn3.cnvsplus.com/Dr.%20House%20S05%20E12_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S05E13 - Bebezão
+https://cdn3.cnvsplus.com/Dr.%20House%20S05%20E13_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S05E14 - O Bem Maior
+https://cdn3.cnvsplus.com/Dr.%20House%20S05%20E14_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S05E15 - Infiel
+https://cdn3.cnvsplus.com/Dr.%20House%20S05%20E15_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S05E16 - O Lado Mais Doce
+https://cdn3.cnvsplus.com/Dr.%20House%20S05%20E16_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S05E17 - Contrato Social
+https://cdn3.cnvsplus.com/Dr.%20House%20S05%20E17_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S05E18 - Vem Cá, Gatinha
+https://cdn3.cnvsplus.com/Dr.%20House%20S05%20E18_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S05E19 - Encarcerado
+https://cdn3.cnvsplus.com/Dr.%20House%20S05%20E19_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S05E20 - Simples Assim
+https://cdn3.cnvsplus.com/Dr.%20House%20S05%20E20_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S05E21 - Os Salvadores
+https://cdn3.cnvsplus.com/Dr.%20House%20S05%20E21_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S05E22 - Dividido
+https://cdn3.cnvsplus.com/Dr.%20House%20S05%20E22_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S05E23 - Na Minha Pele
+https://cdn3.cnvsplus.com/Dr.%20House%20S05%20E23_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S05E24 - Os Dois Lados
+https://cdn3.cnvsplus.com/Dr.%20House%20S05%20E24_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S06E01 - Arruinado
+https://cdn3.cnvsplus.com/Dr.%20House%20S06%20E01_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S06E02 - O Grande Fiasco
+https://cdn3.cnvsplus.com/Dr.%20House%20S06%20E02_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S06E03 - O Tirano
+https://cdn3.cnvsplus.com/Dr.%20House%20S06%20E03_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S06E04 - Carma Imediato
+https://cdn3.cnvsplus.com/Dr.%20House%20S06%20E04_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S06E05 - Coração Valente
+https://cdn3.cnvsplus.com/Dr.%20House%20S06%20E05_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S06E06 - Verdades Não Ditas
+https://cdn3.cnvsplus.com/Dr.%20House%20S06%20E06_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S06E07 - Trabalho Em Equipe
+https://cdn3.cnvsplus.com/Dr.%20House%20S06%20E07_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S06E08 - Santa Ignorância
+https://cdn3.cnvsplus.com/Dr.%20House%20S06%20E08_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S06E09 - Wilson
+https://cdn3.cnvsplus.com/Dr.%20House%20S06%20E09_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S06E10 - Segredos
+https://cdn3.cnvsplus.com/Dr.%20House%20S06%20E10_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S06E11 - Remorso
+https://cdn3.cnvsplus.com/Dr.%20House%20S06%20E11_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S06E12 - Família É Família
+https://cdn3.cnvsplus.com/Dr.%20House%20S06%20E12_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S06E13 - Um Dia Daqueles
+https://cdn3.cnvsplus.com/Dr.%20House%20S06%20E13_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S06E14 - Vidas Privadas
+https://cdn3.cnvsplus.com/Dr.%20House%20S06%20E14_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S06E15 - Buraco Negro
+https://cdn3.cnvsplus.com/Dr.%20House%20S06%20E15_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S06E16 - A Sete Chaves
+https://cdn3.cnvsplus.com/Dr.%20House%20S06%20E16_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S06E17 - A Queda do Cavaleiro
+https://cdn3.cnvsplus.com/Dr.%20House%20S06%20E17_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S06E18 - Aberto ou Fechado?
+https://cdn3.cnvsplus.com/Dr.%20House%20S06%20E18_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S06E19 - Questão de Escolha
+https://cdn3.cnvsplus.com/Dr.%20House%20S06%20E19_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S06E20 - Passado
+https://cdn3.cnvsplus.com/Dr.%20House%20S06%20E20_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S06E21 - Me Ajude
+https://cdn3.cnvsplus.com/Dr.%20House%20S06%20E21_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S06E22 - Episódio 22
+https://cdn3.cnvsplus.com/Dr.%20House%20S06%20E22_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S07E01 - E Agora?
+https://cdn3.cnvsplus.com/Dr.%20House%20S07%20E01_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S07E02 - Egoísta
+https://cdn3.cnvsplus.com/Dr.%20House%20S07%20E02_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S07E03 - Não Escrito
+https://cdn3.cnvsplus.com/Dr.%20House%20S07%20E03_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S07E04 - Massagem Terapêutica
+https://cdn3.cnvsplus.com/Dr.%20House%20S07%20E04_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S07E05 - Paternidade Indesejada
+https://cdn3.cnvsplus.com/Dr.%20House%20S07%20E05_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S07E06 - Política Do Escritório
+https://cdn3.cnvsplus.com/Dr.%20House%20S07%20E06_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S07E07 - Um Estranho Entre Nós
+https://cdn3.cnvsplus.com/Dr.%20House%20S07%20E07_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S07E08 - Pequenos Sacrifícios
+https://cdn3.cnvsplus.com/Dr.%20House%20S07%20E08_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S07E09 - Maior Que A Vida
+https://cdn3.cnvsplus.com/Dr.%20House%20S07%20E09_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S07E10 - Incentivo e Castigo
+https://cdn3.cnvsplus.com/Dr.%20House%20S07%20E10_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S07E11 - Tratamento Em Família
+https://cdn3.cnvsplus.com/Dr.%20House%20S07%20E11_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S07E12 - Você Tem Que Lembrar Disso
+https://cdn3.cnvsplus.com/Dr.%20House%20S07%20E12_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S07E13 - Duas Histórias
+https://cdn3.cnvsplus.com/Dr.%20House%20S07%20E13_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S07E14 - Prova de Recessão
+https://cdn3.cnvsplus.com/Dr.%20House%20S07%20E14_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S07E15 - Estilhaços De Bombas
+https://cdn3.cnvsplus.com/Dr.%20House%20S07%20E15_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S07E16 - Montada No Touro
+https://cdn3.cnvsplus.com/Dr.%20House%20S07%20E16_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S07E17 - Perda Do Encanto
+https://cdn3.cnvsplus.com/Dr.%20House%20S07%20E17_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S07E18 - A Investigação
+https://cdn3.cnvsplus.com/Dr.%20House%20S07%20E18_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S07E19 - A Última Tentação
+https://cdn3.cnvsplus.com/Dr.%20House%20S07%20E19_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S07E20 - Mudanças
+https://cdn3.cnvsplus.com/Dr.%20House%20S07%20E20_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S07E21 - O Dilema
+https://cdn3.cnvsplus.com/Dr.%20House%20S07%20E21_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S07E22 - Depois Do Expediente
+https://cdn3.cnvsplus.com/Dr.%20House%20S07%20E22_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S07E23 - Vida Que Segue
+https://cdn3.cnvsplus.com/Dr.%20House%20S07%20E23_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S08E01 - Vinte Comprimidos
+https://cdn3.cnvsplus.com/Dr.%20House%20S08%20E01_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S08E02 - O Transplante
+https://cdn3.cnvsplus.com/Dr.%20House%20S08%20E02_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S08E03 - Caso De Caridade
+https://cdn3.cnvsplus.com/Dr.%20House%20S08%20E03_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S08E04 - Negócio Arriscado
+https://cdn3.cnvsplus.com/Dr.%20House%20S08%20E04_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S08E05 - A Confissão
+https://cdn3.cnvsplus.com/Dr.%20House%20S08%20E05_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S08E06 - Pais
+https://cdn3.cnvsplus.com/Dr.%20House%20S08%20E06_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S08E07 - Morto E Enterrado
+https://cdn3.cnvsplus.com/Dr.%20House%20S08%20E07_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S08E08 - Os Perigos Da Paranoia
+https://cdn3.cnvsplus.com/Dr.%20House%20S08%20E08_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S08E09 - Cara Metade
+https://cdn3.cnvsplus.com/Dr.%20House%20S08%20E09_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S08E10 - Fugitivos
+https://cdn3.cnvsplus.com/Dr.%20House%20S08%20E10_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S08E11 - Ninguém é Culpado
+https://cdn3.cnvsplus.com/Dr.%20House%20S08%20E11_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S08E12 - Chase
+https://cdn3.cnvsplus.com/Dr.%20House%20S08%20E12_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S08E13 - O Homem Da Casa
+https://cdn3.cnvsplus.com/Dr.%20House%20S08%20E13_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S08E14 - O Amor É Cego
+https://cdn3.cnvsplus.com/Dr.%20House%20S08%20E14_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S08E15 - Traição
+https://cdn3.cnvsplus.com/Dr.%20House%20S08%20E15_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S08E16 - Revisão de Conceitos
+https://cdn3.cnvsplus.com/Dr.%20House%20S08%20E16_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S08E17 - Antes Só?
+https://cdn3.cnvsplus.com/Dr.%20House%20S08%20E17_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S08E18 - De Corpo E Alma
+https://cdn3.cnvsplus.com/Dr.%20House%20S08%20E18_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S08E19 - Tudo ou Nada
+https://cdn3.cnvsplus.com/Dr.%20House%20S08%20E19_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S08E20 - Pós-Morte
+https://cdn3.cnvsplus.com/Dr.%20House%20S08%20E20_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S08E21 - A Escolha
+https://cdn3.cnvsplus.com/Dr.%20House%20S08%20E21_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Séries" tmdb="1408",Dr. House - S08E22 - Todo Mundo Morre
+https://cdn3.cnvsplus.com/Dr.%20House%20S08%20E22_1408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S01E01 - Episódio 1x1
+https://cdn3.iageni.com/Prison%20Break%20S01%20E01_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S01E02 - Episódio 1x2
+https://cdn3.iageni.com/Prison%20Break%20S01%20E02_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S01E03 - Episódio 1x3
+https://cdn3.iageni.com/Prison%20Break%20S01%20E03_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S01E04 - Episódio 1x4
+https://cdn3.iageni.com/Prison%20Break%20S01%20E04_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S01E05 - Episódio 1x5
+https://cdn3.iageni.com/Prison%20Break%20S01%20E05_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S01E06 - Episódio 1x6
+https://cdn3.iageni.com/Prison%20Break%20S01%20E06_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S01E07 - Episódio 1x7
+https://cdn3.iageni.com/Prison%20Break%20S01%20E07_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S01E08 - Episódio 1x8
+https://cdn3.iageni.com/Prison%20Break%20S01%20E08_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S01E09 - Episódio 1x9
+https://cdn3.iageni.com/Prison%20Break%20S01%20E09_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S01E10 - Episódio 1x10
+https://cdn3.iageni.com/Prison%20Break%20S01%20E10_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S01E11 - Episódio 1x11
+https://cdn3.iageni.com/Prison%20Break%20S01%20E11_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S01E12 - Episódio 1x12
+https://cdn3.iageni.com/Prison%20Break%20S01%20E12_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S01E13 - Episódio 1x13
+https://cdn3.iageni.com/Prison%20Break%20S01%20E13_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S01E14 - Episódio 1x14
+https://cdn3.iageni.com/Prison%20Break%20S01%20E14_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S01E15 - Episódio 1x15
+https://cdn3.iageni.com/Prison%20Break%20S01%20E15_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S01E16 - Episódio 1x16
+https://cdn3.iageni.com/Prison%20Break%20S01%20E16_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S01E17 - Episódio 1x17
+https://cdn3.iageni.com/Prison%20Break%20S01%20E17_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S01E18 - Episódio 1x18
+https://cdn3.iageni.com/Prison%20Break%20S01%20E18_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S01E19 - Episódio 1x19
+https://cdn3.iageni.com/Prison%20Break%20S01%20E19_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S01E20 - Episódio 1x20
+https://cdn3.iageni.com/Prison%20Break%20S01%20E20_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S01E21 - Episódio 1x21
+https://cdn3.iageni.com/Prison%20Break%20S01%20E21_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S01E22 - Episódio 1x22
+https://cdn3.iageni.com/Prison%20Break%20S01%20E22_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S02E01 - Episódio 2x1
+https://cdn3.iageni.com/Prison%20Break%20S02%20E01_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S02E02 - Episódio 2x2
+https://cdn3.iageni.com/Prison%20Break%20S02%20E02_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S02E03 - Episódio 2x3
+https://cdn3.iageni.com/Prison%20Break%20S02%20E03_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S02E04 - Episódio 2x4
+https://cdn3.iageni.com/Prison%20Break%20S02%20E04_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S02E05 - Episódio 2x5
+https://cdn3.iageni.com/Prison%20Break%20S02%20E05_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S02E06 - Episódio 2x6
+https://cdn3.iageni.com/Prison%20Break%20S02%20E06_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S02E07 - Episódio 2x7
+https://cdn3.iageni.com/Prison%20Break%20S02%20E07_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S02E08 - Episódio 2x8
+https://cdn3.iageni.com/Prison%20Break%20S02%20E08_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S02E09 - Episódio 2x9
+https://cdn3.iageni.com/Prison%20Break%20S02%20E09_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S02E10 - Episódio 2x10
+https://cdn3.iageni.com/Prison%20Break%20S02%20E10_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S02E11 - Episódio 2x11
+https://cdn3.iageni.com/Prison%20Break%20S02%20E11_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S02E12 - Episódio 2x12
+https://cdn3.iageni.com/Prison%20Break%20S02%20E12_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S02E13 - Episódio 2x13
+https://cdn3.iageni.com/Prison%20Break%20S02%20E13_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S02E14 - Episódio 2x14
+https://cdn3.iageni.com/Prison%20Break%20S02%20E14_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S02E15 - Episódio 2x15
+https://cdn3.iageni.com/Prison%20Break%20S02%20E15_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S02E16 - Episódio 2x16
+https://cdn3.iageni.com/Prison%20Break%20S02%20E16_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S02E17 - Episódio 2x17
+https://cdn3.iageni.com/Prison%20Break%20S02%20E17_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S02E18 - Episódio 2x18
+https://cdn3.iageni.com/Prison%20Break%20S02%20E18_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S02E19 - Episódio 2x19
+https://cdn3.iageni.com/Prison%20Break%20S02%20E19_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S02E20 - Episódio 2x20
+https://cdn3.iageni.com/Prison%20Break%20S02%20E20_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S02E21 - Episódio 2x21
+https://cdn3.iageni.com/Prison%20Break%20S02%20E21_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S02E22 - Episódio 2x22
+https://cdn3.iageni.com/Prison%20Break%20S02%20E22_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S03E01 - Episódio 3x1
+https://cdn3.iageni.com/Prison%20Break%20S03%20E01_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S03E02 - Episódio 3x2
+https://cdn3.iageni.com/Prison%20Break%20S03%20E02_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S03E03 - Episódio 3x3
+https://cdn3.iageni.com/Prison%20Break%20S03%20E03_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S03E04 - Episódio 3x4
+https://cdn3.iageni.com/Prison%20Break%20S03%20E04_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S03E05 - Episódio 3x5
+https://cdn3.iageni.com/Prison%20Break%20S03%20E05_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S03E06 - Episódio 3x6
+https://cdn3.iageni.com/Prison%20Break%20S03%20E06_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S03E07 - Episódio 3x7
+https://cdn3.iageni.com/Prison%20Break%20S03%20E07_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S03E08 - Episódio 3x8
+https://cdn3.iageni.com/Prison%20Break%20S03%20E08_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S03E09 - Episódio 3x9
+https://cdn3.iageni.com/Prison%20Break%20S03%20E09_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S03E10 - Episódio 3x10
+https://cdn3.iageni.com/Prison%20Break%20S03%20E10_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S03E11 - Episódio 3x11
+https://cdn3.iageni.com/Prison%20Break%20S03%20E11_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S03E12 - Episódio 3x12
+https://cdn3.iageni.com/Prison%20Break%20S03%20E12_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S03E13 - Episódio 3x13
+https://cdn3.iageni.com/Prison%20Break%20S03%20E13_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S04E01 - Episódio 4x1
+https://cdn3.iageni.com/Prison%20Break%20S04%20E01_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S04E02 - Episódio 4x2
+https://cdn3.iageni.com/Prison%20Break%20S04%20E02_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S04E03 - Episódio 4x3
+https://cdn3.iageni.com/Prison%20Break%20S04%20E03_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S04E04 - Episódio 4x4
+https://cdn3.iageni.com/Prison%20Break%20S04%20E04_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S04E05 - Episódio 4x5
+https://cdn3.iageni.com/Prison%20Break%20S04%20E05_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S04E06 - Episódio 4x6
+https://cdn3.iageni.com/Prison%20Break%20S04%20E06_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S04E07 - Episódio 4x7
+https://cdn3.iageni.com/Prison%20Break%20S04%20E07_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S04E08 - Episódio 4x8
+https://cdn3.iageni.com/Prison%20Break%20S04%20E08_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S04E09 - Episódio 4x9
+https://cdn3.iageni.com/Prison%20Break%20S04%20E09_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S04E10 - Episódio 4x10
+https://cdn3.iageni.com/Prison%20Break%20S04%20E10_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S04E11 - Episódio 4x11
+https://cdn3.iageni.com/Prison%20Break%20S04%20E11_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S04E12 - Episódio 4x12
+https://cdn3.iageni.com/Prison%20Break%20S04%20E12_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S04E13 - Episódio 4x13
+https://cdn3.iageni.com/Prison%20Break%20S04%20E13_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S04E14 - Episódio 4x14
+https://cdn3.iageni.com/Prison%20Break%20S04%20E14_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S04E15 - Episódio 4x15
+https://cdn3.iageni.com/Prison%20Break%20S04%20E15_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S04E16 - Episódio 4x16
+https://cdn3.iageni.com/Prison%20Break%20S04%20E16_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S04E17 - Episódio 4x17
+https://cdn3.iageni.com/Prison%20Break%20S04%20E17_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S04E18 - Episódio 4x18
+https://cdn3.iageni.com/Prison%20Break%20S04%20E18_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S04E19 - Episódio 4x19
+https://cdn3.iageni.com/Prison%20Break%20S04%20E19_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S04E20 - Episódio 4x20
+https://cdn3.iageni.com/Prison%20Break%20S04%20E20_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S04E21 - Episódio 4x21
+https://cdn3.iageni.com/Prison%20Break%20S04%20E21_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S04E22 - Episódio 4x22
+https://cdn3.iageni.com/Prison%20Break%20S04%20E22_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S05E01 - Episódio 5x1
+https://cdn3.iageni.com/Prison%20Break%20S05%20E01_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S05E02 - Episódio 5x2
+https://cdn3.iageni.com/Prison%20Break%20S05%20E02_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S05E03 - Episódio 5x3
+https://cdn3.iageni.com/Prison%20Break%20S05%20E03_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S05E04 - Episódio 5x4
+https://cdn3.iageni.com/Prison%20Break%20S05%20E04_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S05E05 - Episódio 5x5
+https://cdn3.iageni.com/Prison%20Break%20S05%20E05_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S05E06 - Episódio 5x6
+https://cdn3.iageni.com/Prison%20Break%20S05%20E06_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S05E07 - Episódio 5x7
+https://cdn3.iageni.com/Prison%20Break%20S05%20E07_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S05E08 - Episódio 5x8
+https://cdn3.iageni.com/Prison%20Break%20S05%20E08_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300//lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg" group-title="Séries",Prison Break: Em Busca da Verdade - S05E09 - Episódio 5x9
+https://cdn3.iageni.com/Prison%20Break%20S05%20E09_2288.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/7EZcuL3GuiNvwn5RlKLaWazzekL.jpg" group-title="Séries" tmdb="66732",Stranger Things - S01E01 - Capítulo um: O desaparecimento de Will Byers
+https://cdn3.cnvsplus.com/Stranger%20Things%20S01%20E01_66732.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/7EZcuL3GuiNvwn5RlKLaWazzekL.jpg" group-title="Séries" tmdb="66732",Stranger Things - S01E02 - Capítulo dois: A estranha da Maple Street
+https://cdn3.cnvsplus.com/Stranger%20Things%20S01%20E02_66732.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/7EZcuL3GuiNvwn5RlKLaWazzekL.jpg" group-title="Séries" tmdb="66732",Stranger Things - S01E03 - Capítulo três: Caramba
+https://cdn3.cnvsplus.com/Stranger%20Things%20S01%20E03_66732.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/7EZcuL3GuiNvwn5RlKLaWazzekL.jpg" group-title="Séries" tmdb="66732",Stranger Things - S01E04 - Capítulo quatro: O corpo
+https://cdn3.cnvsplus.com/Stranger%20Things%20S01%20E04_66732.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/7EZcuL3GuiNvwn5RlKLaWazzekL.jpg" group-title="Séries" tmdb="66732",Stranger Things - S01E05 - Capítulo cinco: A pulga e o acrobata
+https://cdn3.cnvsplus.com/Stranger%20Things%20S01%20E05_66732.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/7EZcuL3GuiNvwn5RlKLaWazzekL.jpg" group-title="Séries" tmdb="66732",Stranger Things - S01E06 - Capítulo seis: O monstro
+https://cdn3.cnvsplus.com/Stranger%20Things%20S01%20E06_66732.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/7EZcuL3GuiNvwn5RlKLaWazzekL.jpg" group-title="Séries" tmdb="66732",Stranger Things - S01E07 - Capítulo sete: A banheira
+https://cdn3.cnvsplus.com/Stranger%20Things%20S01%20E07_66732.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/7EZcuL3GuiNvwn5RlKLaWazzekL.jpg" group-title="Séries" tmdb="66732",Stranger Things - S01E08 - Capítulo oito: De ponta-cabeça
+https://cdn3.cnvsplus.com/Stranger%20Things%20S01%20E08_66732.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/7EZcuL3GuiNvwn5RlKLaWazzekL.jpg" group-title="Séries" tmdb="66732",Stranger Things - S02E01 - Capítulo um: Mad Max
+https://cdn3.cnvsplus.com/Stranger%20Things%20S02%20E01_66732.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/7EZcuL3GuiNvwn5RlKLaWazzekL.jpg" group-title="Séries" tmdb="66732",Stranger Things - S02E02 - Capítulo dois: Gostosura ou travessura, aberração
+https://cdn3.cnvsplus.com/Stranger%20Things%20S02%20E02_66732.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/7EZcuL3GuiNvwn5RlKLaWazzekL.jpg" group-title="Séries" tmdb="66732",Stranger Things - S02E03 - Capítulo três: O girino
+https://cdn3.cnvsplus.com/Stranger%20Things%20S02%20E03_66732.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/7EZcuL3GuiNvwn5RlKLaWazzekL.jpg" group-title="Séries" tmdb="66732",Stranger Things - S02E04 - Capítulo quatro: Will, o sábio
+https://cdn3.cnvsplus.com/Stranger%20Things%20S02%20E04_66732.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/7EZcuL3GuiNvwn5RlKLaWazzekL.jpg" group-title="Séries" tmdb="66732",Stranger Things - S02E05 - Capítulo cinco: Dig Dug
+https://cdn3.cnvsplus.com/Stranger%20Things%20S02%20E05_66732.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/7EZcuL3GuiNvwn5RlKLaWazzekL.jpg" group-title="Séries" tmdb="66732",Stranger Things - S02E06 - Capítulo seis: O espião
+https://cdn3.cnvsplus.com/Stranger%20Things%20S02%20E06_66732.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/7EZcuL3GuiNvwn5RlKLaWazzekL.jpg" group-title="Séries" tmdb="66732",Stranger Things - S02E07 - Capítulo sete: A irmã perdida
+https://cdn3.cnvsplus.com/Stranger%20Things%20S02%20E07_66732.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/7EZcuL3GuiNvwn5RlKLaWazzekL.jpg" group-title="Séries" tmdb="66732",Stranger Things - S02E08 - Capítulo oito: O Devorador de Mentes
+https://cdn3.cnvsplus.com/Stranger%20Things%20S02%20E08_66732.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/7EZcuL3GuiNvwn5RlKLaWazzekL.jpg" group-title="Séries" tmdb="66732",Stranger Things - S02E09 - Capítulo nove: O portal
+https://cdn3.cnvsplus.com/Stranger%20Things%20S02%20E09_66732.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/7EZcuL3GuiNvwn5RlKLaWazzekL.jpg" group-title="Séries" tmdb="66732",Stranger Things - S03E01 - Capítulo um: Está me ouvindo, Suzie?
+https://cdn3.cnvsplus.com/Stranger%20Things%20S03%20E01_66732.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/7EZcuL3GuiNvwn5RlKLaWazzekL.jpg" group-title="Séries" tmdb="66732",Stranger Things - S03E02 - Capítulo dois: O caso dos ratos
+https://cdn3.cnvsplus.com/Stranger%20Things%20S03%20E02_66732.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/7EZcuL3GuiNvwn5RlKLaWazzekL.jpg" group-title="Séries" tmdb="66732",Stranger Things - S03E03 - Capítulo três: A salva-vidas desaparecida
+https://cdn3.cnvsplus.com/Stranger%20Things%20S03%20E03_66732.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/7EZcuL3GuiNvwn5RlKLaWazzekL.jpg" group-title="Séries" tmdb="66732",Stranger Things - S03E04 - Capítulo quatro: A prova da sauna
+https://cdn3.cnvsplus.com/Stranger%20Things%20S03%20E04_66732.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/7EZcuL3GuiNvwn5RlKLaWazzekL.jpg" group-title="Séries" tmdb="66732",Stranger Things - S03E05 - Capítulo cinco: Os devorados
+https://cdn3.cnvsplus.com/Stranger%20Things%20S03%20E05_66732.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/7EZcuL3GuiNvwn5RlKLaWazzekL.jpg" group-title="Séries" tmdb="66732",Stranger Things - S03E06 - Capítulo seis: E pluribus unum
+https://cdn3.cnvsplus.com/Stranger%20Things%20S03%20E06_66732.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/7EZcuL3GuiNvwn5RlKLaWazzekL.jpg" group-title="Séries" tmdb="66732",Stranger Things - S03E07 - Capítulo sete: A mordida
+https://cdn3.cnvsplus.com/Stranger%20Things%20S03%20E07_66732.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/7EZcuL3GuiNvwn5RlKLaWazzekL.jpg" group-title="Séries" tmdb="66732",Stranger Things - S03E08 - Capítulo oito: A batalha de Starcourt
+https://cdn3.cnvsplus.com/Stranger%20Things%20S03%20E08_66732.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/7EZcuL3GuiNvwn5RlKLaWazzekL.jpg" group-title="Séries" tmdb="66732",Stranger Things - S04E01 - Capítulo um: O Clube Hellfire
+https://cdn3.cnvsplus.com/Stranger%20Things%20S04%20E01_66732.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/7EZcuL3GuiNvwn5RlKLaWazzekL.jpg" group-title="Séries" tmdb="66732",Stranger Things - S04E02 - Capítulo dois: A maldição de Vecna
+https://cdn3.cnvsplus.com/Stranger%20Things%20S04%20E02_66732.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/7EZcuL3GuiNvwn5RlKLaWazzekL.jpg" group-title="Séries" tmdb="66732",Stranger Things - S04E03 - Capítulo três: O monstro e a super-heroína
+https://cdn3.cnvsplus.com/Stranger%20Things%20S04%20E03_66732.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/7EZcuL3GuiNvwn5RlKLaWazzekL.jpg" group-title="Séries" tmdb="66732",Stranger Things - S04E04 - Capítulo quatro: Querido Billy
+https://cdn3.cnvsplus.com/Stranger%20Things%20S04%20E04_66732.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/7EZcuL3GuiNvwn5RlKLaWazzekL.jpg" group-title="Séries" tmdb="66732",Stranger Things - S04E05 - Capítulo cinco: Projeto Nina
+https://cdn3.cnvsplus.com/Stranger%20Things%20S04%20E05_66732.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/7EZcuL3GuiNvwn5RlKLaWazzekL.jpg" group-title="Séries" tmdb="66732",Stranger Things - S04E06 - Capítulo seis: Mergulho
+https://cdn3.cnvsplus.com/Stranger%20Things%20S04%20E06_66732.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/7EZcuL3GuiNvwn5RlKLaWazzekL.jpg" group-title="Séries" tmdb="66732",Stranger Things - S04E07 - Capítulo sete: O massacre no laboratório de Hawkins
+https://cdn3.cnvsplus.com/Stranger%20Things%20S04%20E07_66732.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/7EZcuL3GuiNvwn5RlKLaWazzekL.jpg" group-title="Séries" tmdb="66732",Stranger Things - S04E08 - Capítulo oito: Papai
+https://cdn3.cnvsplus.com/Stranger%20Things%20S04%20E08_66732.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/7EZcuL3GuiNvwn5RlKLaWazzekL.jpg" group-title="Séries" tmdb="66732",Stranger Things - S04E09 - Capítulo nove: E o plano de Onze
+https://cdn3.cnvsplus.com/Stranger%20Things%20S04%20E09_66732.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/eVqBFACBpovk0sEtjx3HEb3jOYS.jpg" group-title="Séries" tmdb="279013",Tremembé - S01E01 - Confia em mim
+https://cdn.cnvsplus.com/m/TREMEMBE.S01E01.1080p.WEB-DL.NACIONAL.5.1.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/eVqBFACBpovk0sEtjx3HEb3jOYS.jpg" group-title="Séries" tmdb="279013",Tremembé - S01E02 - Até que a morte nos separe
+https://cdn.cnvsplus.com/m/TREMEMBE.S01E02.1080p.WEB-DL.NACIONAL.5.1.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/eVqBFACBpovk0sEtjx3HEb3jOYS.jpg" group-title="Séries" tmdb="279013",Tremembé - S01E03 - Assassinas na TV
+https://cdn.cnvsplus.com/m/TREMEMBE.S01E03.1080p.WEB-DL.NACIONAL.5.1.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/eVqBFACBpovk0sEtjx3HEb3jOYS.jpg" group-title="Séries" tmdb="279013",Tremembé - S01E04 - Acerto de contas
+https://cdn.cnvsplus.com/m/TREMEMBE.S01E04.1080p.WEB-DL.NACIONAL.5.1.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/eVqBFACBpovk0sEtjx3HEb3jOYS.jpg" group-title="Séries" tmdb="279013",Tremembé - S01E05 - Justiça seja feita
+https://cdn.cnvsplus.com/m/TREMEMBE.S01E05.1080p.WEB-DL.NACIONAL.5.1.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/vz2oBcS23lZ35LmDC7mQqThrg8v.jpg" group-title="Séries" tmdb="119051",Wandinha - S01E01 - Wandinha é só desgosto
+https://cdn3.cnvsplus.com/Wandinha%20S01%20E01_119051.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/vz2oBcS23lZ35LmDC7mQqThrg8v.jpg" group-title="Séries" tmdb="119051",Wandinha - S01E02 - Desgosto solitário
+https://cdn3.cnvsplus.com/Wandinha%20S01%20E02_119051.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/vz2oBcS23lZ35LmDC7mQqThrg8v.jpg" group-title="Séries" tmdb="119051",Wandinha - S01E03 - Amiga ou desgosto
+https://cdn3.cnvsplus.com/Wandinha%20S01%20E03_119051.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/vz2oBcS23lZ35LmDC7mQqThrg8v.jpg" group-title="Séries" tmdb="119051",Wandinha - S01E04 - Noite de desgosto
+https://cdn3.cnvsplus.com/Wandinha%20S01%20E04_119051.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/vz2oBcS23lZ35LmDC7mQqThrg8v.jpg" group-title="Séries" tmdb="119051",Wandinha - S01E05 - Quem planta desgosto, colhe...
+https://cdn3.cnvsplus.com/Wandinha%20S01%20E05_119051.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/vz2oBcS23lZ35LmDC7mQqThrg8v.jpg" group-title="Séries" tmdb="119051",Wandinha - S01E06 - Toma lá, não dá cá
+https://cdn3.cnvsplus.com/Wandinha%20S01%20E06_119051.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/vz2oBcS23lZ35LmDC7mQqThrg8v.jpg" group-title="Séries" tmdb="119051",Wandinha - S01E07 - Se não me conhece ainda...
+https://cdn3.cnvsplus.com/Wandinha%20S01%20E07_119051.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/vz2oBcS23lZ35LmDC7mQqThrg8v.jpg" group-title="Séries" tmdb="119051",Wandinha - S01E08 - Confrontando desgostos
+https://cdn3.cnvsplus.com/Wandinha%20S01%20E08_119051.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/vz2oBcS23lZ35LmDC7mQqThrg8v.jpg" group-title="Séries" tmdb="119051",Wandinha - S02E01 - Mais desgosto
+https://cdn.cnvsplus.com/m/Wandinha_S02E01_Mais%20desgosto.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/vz2oBcS23lZ35LmDC7mQqThrg8v.jpg" group-title="Séries" tmdb="119051",Wandinha - S02E02 - Confronto
+https://cdn.cnvsplus.com/m/Wandinha_S02E02_Confronto.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/vz2oBcS23lZ35LmDC7mQqThrg8v.jpg" group-title="Séries" tmdb="119051",Wandinha - S02E03 - Chamado da natureza
+https://cdn.cnvsplus.com/m/Wandinha_S02E03_Chamado%20da%20natureza.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/vz2oBcS23lZ35LmDC7mQqThrg8v.jpg" group-title="Séries" tmdb="119051",Wandinha - S02E04 - Se estas paredes falassem
+https://cdn.cnvsplus.com/m/Wandinha_S02E04_Se%20estas%20paredes%20falassem.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/vz2oBcS23lZ35LmDC7mQqThrg8v.jpg" group-title="Séries" tmdb="119051",Wandinha - S02E05 - Hyde escondido
+https://cdn.cnvsplus.com/m/Wandinha_S02E05_Hyde%20escondido.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/vz2oBcS23lZ35LmDC7mQqThrg8v.jpg" group-title="Séries" tmdb="119051",Wandinha - S02E06 - Conhece a ti mesmo
+https://cdn.cnvsplus.com/m/Wandinha_S02E06_Conhece%20a%20ti%20mesmo.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/vz2oBcS23lZ35LmDC7mQqThrg8v.jpg" group-title="Séries" tmdb="119051",Wandinha - S02E07 - De olho no dinheiro
+https://cdn.cnvsplus.com/m/Wandinha_S02E07_De%20olho%20no%20dinheiro.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/vz2oBcS23lZ35LmDC7mQqThrg8v.jpg" group-title="Séries" tmdb="119051",Wandinha - S02E08 - É guerra!
+https://cdn.cnvsplus.com/m/Wandinha_S02E08_%C3%89%20guerra%21.mp4
