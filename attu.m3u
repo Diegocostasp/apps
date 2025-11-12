@@ -1,143 +1,221 @@
 #EXTM3U
+#EXTINF:-1,AMC HD
+200.194.238.228:8000/play/a07d/index.m3u8
 #EXTINF:-1,AXN HD
-http://187.120.222.12:8000/play/AXNLEG/index.m3u8
-#EXTINF:-1,BBB HD 1
-http://187.120.222.12:8000/play/BBB1/index.m3u8
-#EXTINF:-1,Baby TV
-http://187.120.222.12:8000/play/BabyTV/index.m3u8
-#EXTINF:-1,Band Paulista HD
-http://187.120.222.12:8000/play/a06i/index.m3u8
-#EXTINF:-1,BandNews
-http://187.120.222.12:8000/play/BandNews/index.m3u8
-#EXTINF:-1,Boa Vontade TV
-http://187.120.222.12:8000/play/BoaVontade/index.m3u8
-#EXTINF:-1,Canal Rural
-http://187.120.222.12:8000/play/CanalRural/index.m3u8
+200.194.238.228:8000/play/a06w/index.m3u8
+#EXTINF:-1,AgroMais HD
+200.194.238.228:8000/play/a07f/index.m3u8
+#EXTINF:-1,Animal Planet HD
+200.194.238.228:8000/play/a05d/index.m3u8
+#EXTINF:-1,Animal Planet HD
+200.194.238.228:8000/play/a04z/index.m3u8
+#EXTINF:-1,Arte 1 HD
+200.194.238.228:8000/play/a089/index.m3u8
+#EXTINF:-1,Band News HD
+200.194.238.228:8000/play/a08t/index.m3u8
+#EXTINF:-1,Boomerang HD
+200.194.238.228:8000/play/a06d/index.m3u8
+#EXTINF:-1,CNN Brasil HD
+200.194.238.228:8000/play/a05m/index.m3u8
+#EXTINF:-1,CONMEBOL TV 1
+200.194.238.228:8000/play/a08m/index.m3u8
+#EXTINF:-1,CONMEBOL TV 2
+200.194.238.228:8000/play/a08n/index.m3u8
+#EXTINF:-1,CONMEBOL TV 3
+200.194.238.228:8000/play/a08o/index.m3u8
+#EXTINF:-1,CONMEBOL TV 4
+200.194.238.228:8000/play/a08y/index.m3u8
+#EXTINF:-1,Campeonato Carioca 1
+200.194.238.228:8000/play/a07k/index.m3u8
+#EXTINF:-1,Campeonato Carioca 2
+200.194.238.228:8000/play/a05j/index.m3u8
 #EXTINF:-1,Canal Sony HD
-http://187.120.222.12:8000/play/CanalSonyLEG/index.m3u8
-#EXTINF:-1,Canal do Criador HD
-http://187.120.222.12:8000/play/a06v/index.m3u8
-#EXTINF:-1,Conmebol TV 4
-http://187.120.222.12:8000/play/a06q/index.m3u8
-#EXTINF:-1,Cultura HD
-http://187.120.222.12:8000/play/TVCultura/index.m3u8
-#EXTINF:-1,DiscoveryScience
-http://187.120.222.12:8000/play/DiscoveryScience/index.m3u8
-#EXTINF:-1,EPTV Ribeirªo Preto
-http://187.120.222.12:8000/play/EPTVRibeiraoPreto/index.m3u8
-#EXTINF:-1,EPTV Sªo Carlos
-http://187.120.222.12:8000/play/EPTVSaoCarlos/index.m3u8
-#EXTINF:-1,ESPN 3 HD
-http://187.120.222.12:8000/play/ESPN3/index.m3u8
-#EXTINF:-1,FOX HD
-http://187.120.222.12:8000/play/a04n/index.m3u8
-#EXTINF:-1,FOX Life HD
-http://187.120.222.12:8000/play/a04p/index.m3u8
+200.194.238.228:8000/play/a06v/index.m3u8
+#EXTINF:-1,Canal do Boi HD
+200.194.238.228:8000/play/a06h/index.m3u8
+#EXTINF:-1,Cartoon Network HD
+200.194.238.228:8000/play/a057/index.m3u8
+#EXTINF:-1,Cinemax HD
+200.194.238.228:8000/play/a05q/index.m3u8
+#EXTINF:-1,Cinemax HD
+200.194.238.228:8000/play/a00k/index.m3u8
+#EXTINF:-1,Comedy Central HD
+200.194.238.228:8000/play/a064/index.m3u8
+#EXTINF:-1,Curta! HD
+200.194.238.228:8000/play/a069/index.m3u8
+#EXTINF:-1,Disc. Home & Health HD
+200.194.238.228:8000/play/a05l/index.m3u8
+#EXTINF:-1,Discovery Channel HD
+200.194.238.228:8000/play/a06b/index.m3u8
+#EXTINF:-1,Discovery Kids HD
+200.194.238.228:8000/play/a06c/index.m3u8
+#EXTINF:-1,Discovery Science HD
+200.194.238.228:8000/play/a08u/index.m3u8
+#EXTINF:-1,Discovery Theater HD
+200.194.238.228:8000/play/a055/index.m3u8
+#EXTINF:-1,Discovery Theater HD
+200.194.238.228:8000/play/a016/index.m3u8
+#EXTINF:-1,Discovery Turbo HD
+200.194.238.228:8000/play/a05n/index.m3u8
+#EXTINF:-1,Discovery World HD
+200.194.238.228:8000/play/a056/index.m3u8
+#EXTINF:-1,Discovery World HD
+200.194.238.228:8000/play/a017/index.m3u8
+#EXTINF:-1,Disney Channel HD
+200.194.238.228:8000/play/a05o/index.m3u8
+#EXTINF:-1,Disney Junior HD
+200.194.238.228:8000/play/a07a/index.m3u8
+#EXTINF:-1,Disney 😆
+200.194.238.228:8000/play/a07u/index.m3u8
+#EXTINF:-1,ESPN Brasil HD
+200.194.238.228:8000/play/a073/index.m3u8
+#EXTINF:-1,ESPN Extra HD
+200.194.238.228:8000/play/a054/index.m3u8
+#EXTINF:-1,ESPN HD
+200.194.238.228:8000/play/a074/index.m3u8
+#EXTINF:-1,ESPN2 HD
+200.194.238.228:8000/play/a07i/index.m3u8
+#EXTINF:-1,Eurochannel HD
+200.194.238.228:8000/play/a08w/index.m3u8
 #EXTINF:-1,FX HD
-http://187.120.222.12:8000/play/a04o/index.m3u8
-#EXTINF:-1,Film & Arts
-http://187.120.222.12:8000/play/a040/index.m3u8
-#EXTINF:-1,Futura
-http://187.120.222.12:8000/play/Futura/index.m3u8
-#EXTINF:-1,GloboNews HD
-http://187.120.222.12:8000/play/GloboNews/index.m3u8
-#EXTINF:-1,HGTV
-http://187.120.222.12:8000/play/HGTV/index.m3u8
-#EXTINF:-1,Inter TV Cabugi
-http://187.120.222.12:8000/play/InterTVCabugi/index.m3u8
-#EXTINF:-1,Like HD
-http://187.120.222.12:8000/play/Like/index.m3u8
+200.194.238.228:8000/play/a063/index.m3u8
+#EXTINF:-1,Film&Arts HD
+200.194.238.228:8000/play/a08x/index.m3u8
+#EXTINF:-1,Food Network HD
+200.194.238.228:8000/play/a078/index.m3u8
+#EXTINF:-1,Fox Premium 1 HD
+200.194.238.228:8000/play/a03s/index.m3u8
+#EXTINF:-1,Fox Premium 2 HD
+200.194.238.228:8000/play/a03t/index.m3u8
+#EXTINF:-1,Futura HD
+200.194.238.228:8000/play/a08q/index.m3u8
+#EXTINF:-1,GNT HD
+200.194.238.228:8000/play/a07p/index.m3u8
+#EXTINF:-1,HBO Family HD
+200.194.238.228:8000/play/a08e/index.m3u8
+#EXTINF:-1,HBO HD
+200.194.238.228:8000/play/a08b/index.m3u8
+#EXTINF:-1,HBO MUNDI HD
+200.194.238.228:8000/play/a05r/index.m3u8
+#EXTINF:-1,HBO MUNDI HD
+200.194.238.228:8000/play/a00l/index.m3u8
+#EXTINF:-1,HBO POP HD
+200.194.238.228:8000/play/a08g/index.m3u8
+#EXTINF:-1,HBO Signature HD
+200.194.238.228:8000/play/a08f/index.m3u8
+#EXTINF:-1,HBO XTREME HD
+200.194.238.228:8000/play/a05s/index.m3u8
+#EXTINF:-1,HBO XTREME HD
+200.194.238.228:8000/play/a00m/index.m3u8
+#EXTINF:-1,HBO+ HD
+200.194.238.228:8000/play/a08d/index.m3u8
+#EXTINF:-1,HBO2 HD
+200.194.238.228:8000/play/a08c/index.m3u8
+#EXTINF:-1,HGTV HD
+200.194.238.228:8000/play/a08r/index.m3u8
+#EXTINF:-1,History HD
+200.194.238.228:8000/play/a06t/index.m3u8
+#EXTINF:-1,ID HD
+200.194.238.228:8000/play/a059/index.m3u8
+#EXTINF:-1,ID HD
+200.194.238.228:8000/play/a018/index.m3u8
+#EXTINF:-1,Lifetime HD
+200.194.238.228:8000/play/a07c/index.m3u8
+#EXTINF:-1,MTV HD
+200.194.238.228:8000/play/a060/index.m3u8
 #EXTINF:-1,Megapix HD
-http://187.120.222.12:8000/play/MegapixLEG/index.m3u8
-#EXTINF:-1,Nosso Futebol 2
-http://187.120.222.12:8000/play/a07c/index.m3u8
-#EXTINF:-1,Nosso Futebol 3
-http://187.120.222.12:8000/play/NF3/index.m3u8
-#EXTINF:-1,Pai Eterno
-http://187.120.222.12:8000/play/a03x/index.m3u8
-#EXTINF:-1,PlayTV
-http://187.120.222.12:8000/play/PlayTV/index.m3u8
+200.194.238.228:8000/play/a06y/index.m3u8
+#EXTINF:-1,Multishow HD
+200.194.238.228:8000/play/a07q/index.m3u8
+#EXTINF:-1,Music Box Brazil HD
+200.194.238.228:8000/play/a06f/index.m3u8
+#EXTINF:-1,Nat Geo Kids HD
+200.194.238.228:8000/play/a06e/index.m3u8
+#EXTINF:-1,NatGeo Wild HD
+200.194.238.228:8000/play/a05z/index.m3u8
+#EXTINF:-1,National Geographic HD
+200.194.238.228:8000/play/a05y/index.m3u8
+#EXTINF:-1,Nick Jr. HD
+200.194.238.228:8000/play/a05f/index.m3u8
+#EXTINF:-1,Nick Jr. HD
+200.194.238.228:8000/play/a04o/index.m3u8
+#EXTINF:-1,Nickelodeon HD
+200.194.238.228:8000/play/a05e/index.m3u8
+#EXTINF:-1,Nickelodeon HD
+200.194.238.228:8000/play/a050/index.m3u8
+#EXTINF:-1,Paramount Network HD
+200.194.238.228:8000/play/a066/index.m3u8
+#EXTINF:-1,Playboy HD
+200.194.238.228:8000/play/a05k/index.m3u8
+#EXTINF:-1,Playboy HD
+200.194.238.228:8000/play/a04u/index.m3u8
 #EXTINF:-1,Polishop TV
-http://187.120.222.12:8000/play/PolishopTV/index.m3u8
-#EXTINF:-1,Premiere 2 HD
-http://187.120.222.12:8000/play/PFC2/index.m3u8
-#EXTINF:-1,Premiere 5 HD
-http://187.120.222.12:8000/play/PFC5/index.m3u8
-#EXTINF:-1,Premiere Clubes HD
-http://187.120.222.12:8000/play/PremiereClubes/index.m3u8
-#EXTINF:-1,Record SJRP HD
-http://187.120.222.12:8000/play/a06k/index.m3u8
-#EXTINF:-1,Rede Amazħnica Manaus
-http://187.120.222.12:8000/play/RedeAmazonicaManaus/index.m3u8
-#EXTINF:-1,Rede Brasil
-http://187.120.222.12:8000/play/RedeBrasil/index.m3u8
-#EXTINF:-1,SBT HD
-http://187.120.222.12:8000/play/a06f/index.m3u8
-#EXTINF:-1,Sextreme
-http://187.120.222.12:8000/play/Sextreme/index.m3u8
+200.194.238.228:8000/play/a07y/index.m3u8
+#EXTINF:-1,Polishop TV
+200.194.238.228:8000/play/a07x/index.m3u8
+#EXTINF:-1,Premiere 4 HD
+200.194.238.228:8000/play/a07r/index.m3u8
+#EXTINF:-1,Prime Box Brazil HD
+200.194.238.228:8000/play/a06g/index.m3u8
+#EXTINF:-1,Record News HD
+200.194.238.228:8000/play/a05u/index.m3u8
+#EXTINF:-1,Rede Vida HD
+200.194.238.228:8000/play/a08h/index.m3u8
+#EXTINF:-1,SCC ? SBT HD
+200.194.238.228:8000/play/a05w/index.m3u8
+#EXTINF:-1,STAR CHANNEL HD
+200.194.238.228:8000/play/a062/index.m3u8
+#EXTINF:-1,STAR HITS 2 HD
+200.194.238.228:8000/play/a05h/index.m3u8
+#EXTINF:-1,STAR HITS HD
+200.194.238.228:8000/play/a05g/index.m3u8
+#EXTINF:-1,STAR LIFE HD
+200.194.238.228:8000/play/a065/index.m3u8
+#EXTINF:-1,SYFY HD
+200.194.238.228:8000/play/a07b/index.m3u8
+#EXTINF:-1,Shoptime
+200.194.238.228:8000/play/a07t/index.m3u8
+#EXTINF:-1,Shoptime
+200.194.238.228:8000/play/a07v/index.m3u8
+#EXTINF:-1,Smithsonian HD
+200.194.238.228:8000/play/a079/index.m3u8
 #EXTINF:-1,Space HD
-http://187.120.222.12:8000/play/SpaceLEG/index.m3u8
-#EXTINF:-1,TCM
-http://187.120.222.12:8000/play/TCM/index.m3u8
+200.194.238.228:8000/play/a05b/index.m3u8
+#EXTINF:-1,Studio Universal HD
+200.194.238.228:8000/play/a07e/index.m3u8
+#EXTINF:-1,TBS HD
+200.194.238.228:8000/play/a058/index.m3u8
+#EXTINF:-1,TLC HD
+200.194.238.228:8000/play/a068/index.m3u8
+#EXTINF:-1,TNT HD
+200.194.238.228:8000/play/a075/index.m3u8
 #EXTINF:-1,TNT SØries HD
-http://187.120.222.12:8000/play/TNTSeriesLEG/index.m3u8
-#EXTINF:-1,TV Brasil
-http://187.120.222.12:8000/play/a041/index.m3u8
-#EXTINF:-1,TV CanĿªo Nova
-http://187.120.222.12:8000/play/CancaoNova/index.m3u8
-#EXTINF:-1,TV Centro AmØrica CuiabÆ
-http://187.120.222.12:8000/play/TVCentroAmericaCuiaba/index.m3u8
-#EXTINF:-1,TV CÐmara
-http://187.120.222.12:8000/play/TVCamara/index.m3u8
-#EXTINF:-1,TV Escola
-http://187.120.222.12:8000/play/TVEscola/index.m3u8
-#EXTINF:-1,TV JustiĿa
-http://187.120.222.12:8000/play/TVJustica/index.m3u8
-#EXTINF:-1,TV Liberal BelØm
-http://187.120.222.12:8000/play/TVLiberalBelem/index.m3u8
-#EXTINF:-1,TV TEM HD
-http://187.120.222.12:8000/play/a06g/index.m3u8
-#EXTINF:-1,TV TEM SJRP - Globo HD
-http://187.120.222.12:8000/play/TVTEMSJRP/index.m3u8
-#EXTINF:-1,TV Tem Bauru
-http://187.120.222.12:8000/play/TVTemBauru/index.m3u8
-#EXTINF:-1,TV Tem Sorocaba
-http://187.120.222.12:8000/play/TVTemSorocaba/index.m3u8
-#EXTINF:-1,TV Tribuna Santos
-http://187.120.222.12:8000/play/TVTribunaSantos/index.m3u8
-#EXTINF:-1,TV Vanguarda S. J. dos Campos
-http://187.120.222.12:8000/play/TVVanguardaSJdosCampos/index.m3u8
-#EXTINF:-1,TV Verdes Mares Fortaleza
-http://187.120.222.12:8000/play/TVVerdesMaresFortaleza/index.m3u8
+200.194.238.228:8000/play/a05a/index.m3u8
+#EXTINF:-1,TV Aparecida
+200.194.238.228:8000/play/a05c/index.m3u8
+#EXTINF:-1,TV Brasil HD
+200.194.238.228:8000/play/a077/index.m3u8
+#EXTINF:-1,TV Novo Tempo HD
+200.194.238.228:8000/play/a08k/index.m3u8
+#EXTINF:-1,TV RaTimBum HD
+200.194.238.228:8000/play/a00j/index.m3u8
+#EXTINF:-1,TV RÆ Tim Bum HD
+200.194.238.228:8000/play/a05p/index.m3u8
+#EXTINF:-1,TVBV - BAND HD
+200.194.238.228:8000/play/a05v/index.m3u8
 #EXTINF:-1,Telecine Action HD
-http://187.120.222.12:8000/play/TCActionLEG/index.m3u8
+200.194.238.228:8000/play/a06z/index.m3u8
 #EXTINF:-1,Telecine Cult HD
-http://187.120.222.12:8000/play/a07d/index.m3u8
-#EXTINF:-1,Telecine Cult HD
-http://187.120.222.12:8000/play/TCCultLEG/index.m3u8
+200.194.238.228:8000/play/a071/index.m3u8
 #EXTINF:-1,Telecine Fun HD
-http://187.120.222.12:8000/play/TCFunLEG/index.m3u8
-#EXTINF:-1,Telecine Pipoca HD
-http://187.120.222.12:8000/play/TCPipocaLEG/index.m3u8
-#EXTINF:-1,Telecine Premium HD
-http://187.120.222.12:8000/play/TCPremiumLEG/index.m3u8
-#EXTINF:-1,Telecine Touch HD
-http://187.120.222.12:8000/play/TCTouchLEG/index.m3u8
-#EXTINF:-1,Tooncast
-http://187.120.222.12:8000/play/Tooncast/index.m3u8
-#EXTINF:-1,Universal TV HD
-http://187.120.222.12:8000/play/UniversalTV/index.m3u8
-#EXTINF:-1,Unknown
-http://187.120.222.12:8000/play/Paramountplus4/index.m3u8
-#EXTINF:-1,Unknown
-http://187.120.222.12:8000/play/BBB3/index.m3u8
-#EXTINF:-1,Unknown
-http://187.120.222.12:8000/play/BBB2/index.m3u8
-#EXTINF:-1,VH1 Mega Hits 
-http://187.120.222.12:8000/play/VH1MegaHits/index.m3u8
-#EXTINF:-1,Warner HD
-http://187.120.222.12:8000/play/WarnerLEG/index.m3u8
-#EXTINF:-1,Woohoo
-http://187.120.222.12:8000/play/Woohoo/index.m3u8
-#EXTINF:-1,ZooMoo
-http://187.120.222.12:8000/play/ZooMoo/index.m3u8
+200.194.238.228:8000/play/a070/index.m3u8
+#EXTINF:-1,Trace Brazuca HD
+200.194.238.228:8000/play/a08a/index.m3u8
+#EXTINF:-1,VH1
+200.194.238.228:8000/play/a061/index.m3u8
+#EXTINF:-1,Warner Channel HD
+200.194.238.228:8000/play/a06u/index.m3u8
+#EXTINF:-1,Woohoo HD
+200.194.238.228:8000/play/a08s/index.m3u8
+#EXTINF:-1,Zoomoo HD
+200.194.238.228:8000/play/a08v/index.m3u8
